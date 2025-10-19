@@ -1,9 +1,17 @@
-# RimworldTranslationMod
-<!-- # depended mod name(ja-JP) -->
+# Too many VPE Paths(ja-JP)
 
-[depended mod name](https://steamcommunity.com/sharedfiles/filedetails/?id=_workshopnumber_) の自分用日本語化Mod
+VPsyEの拡張Mod群である [Too many VPE Paths](https://steamcommunity.com/sharedfiles/filedetails/?id=3459190568) の一部MODに対する、自分用日本語化Mod
 
 [Extract translation](https://steamcommunity.com/sharedfiles/filedetails/?id=3026452122)で出力したファイルを、GithubCopilot の Agent mode に翻訳させた上で、一部に強めの意訳を施した内容であることを承知の上で使用してください。
+
+## 翻訳対象
+
+* VPE - Luminis
+
+## 翻訳対象外
+
+* VPE - Ragnarok Online
+  * [VPE - Ragnarok Online(ja-JP)](https://github.com/piet-rian/ja-JP.VPE.Ragnarok) で単独で翻訳済みであるため
 
 ## 注意点
 
@@ -28,7 +36,7 @@
 > * Core
 > * DLC群
 > * (翻訳対象がさらに前提としているMod)
-> * depended mod name
+> * Too many VPE Paths のMod
 > * **本Mod**
 
 ## MID-SAVE
@@ -41,6 +49,9 @@
 * 他の翻訳がすでに導入されてる状態で、更に本Modも導入した場合は変なことが起こるかもしれません
 
 ## 訳注
+
+* サイキャスト名は基本的にそのままカタカナにしてあります
+  * `Solar Rift` → `ソーラーリフト`
 
 原文中の節と訳文の対応については [用語集](.github/instructions/glossary.instructions.md) 参照
 

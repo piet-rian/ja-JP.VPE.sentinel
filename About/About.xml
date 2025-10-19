@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
 
-  <packageId>ja.JP.depended.mod.package.id</packageId>
-  <name>RimworldTranslationMod</name>
-  <!-- <name>depended mod name(ja-JP)</name> -->
+  <packageId>ja.JP.vpe.sentinel</packageId>
+  <name>Too many VPE Paths(ja-JP)</name>
   <authors>
     <li>piet-rian</li>
     <li>...</li>
@@ -22,15 +21,11 @@
   <!-- see. https://rimworldwiki.com/wiki/Modding_Tutorials/About.xml -->
 
   <modDependencies>
-    <li>
-      <packageId>depended.mod.package.id</packageId>
-      <displayName>depended mod name</displayName>
-      <steamWorkshopUrl>steam://url/CommunityFilePage/_workshopnumber_</steamWorkshopUrl>
-    </li>
+    <!-- 複数のMODのうちどれかが入っていたら翻訳する方式であるため、指定はなし -->
   </modDependencies>
 
   <loadAfter>
-    <li>depended.mod.package.id</li>
+    <li>vpe.luminis.sentinel</li>
     <!-- <li>additional.mod.package.id</li> -->
   </loadAfter>
 
