@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: Eternal Night -->
-  <VPE_EternalNightSTNL.label>TODO</VPE_EternalNightSTNL.label>
+  <VPE_EternalNightSTNL.label>アエテルナ・ノクティス</VPE_EternalNightSTNL.label>
   <!-- EN: There is no natural light in the world. -->
-  <VPE_EternalNightSTNL.description>TODO</VPE_EternalNightSTNL.description>
-  
+  <VPE_EternalNightSTNL.description>世界には自然光が存在しません。</VPE_EternalNightSTNL.description>
+
   <!-- EN: Night Of The Apocalypse -->
-  <VPE_NoctisApocalypsisSTNL.label>TODO</VPE_NoctisApocalypsisSTNL.label>
+  <VPE_NoctisApocalypsisSTNL.label>ノクティス・アポカリプシス</VPE_NoctisApocalypsisSTNL.label>
   <!-- EN: There is no natural light in the world. -->
-  <VPE_NoctisApocalypsisSTNL.description>TODO</VPE_NoctisApocalypsisSTNL.description>
-  
+  <VPE_NoctisApocalypsisSTNL.description>世界には自然光が存在しません。</VPE_NoctisApocalypsisSTNL.description>
+
 </LanguageData>

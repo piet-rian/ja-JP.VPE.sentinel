@@ -1,39 +1,39 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-	<!-- Solar Rift -->
-	<!-- EN: The solar rift has repositioned itself in front of the sun-blocking astral body, effectively ending the eclipse. -->
-  <SolarRiftLightRestoredSTNL>TODO</SolarRiftLightRestoredSTNL>
-	<!-- Apocalypsis Luminis -->
-	<!-- EN: Cannot use this ability, there is not enough light in the world to absorb. -->
-  <ApocalypsisLuminisDeadWorldSTNL>TODO</ApocalypsisLuminisDeadWorldSTNL>
-	<!-- Furari Luminis -->
-	<!-- EN: A Luminis psycaster tried to absorb light, but there wasn't enough to consume. -->
-  <FurariLuminisDeadWorldSTNL>TODO</FurariLuminisDeadWorldSTNL>
-	
-	<!-- ====Condition Stuff==== -->
-    <!-- EN: The stars are currently too weak to sustain solar pinholes. -->
-  <LastLightSolarPinholeClosedSTNL>TODO</LastLightSolarPinholeClosedSTNL>
-	
-	<!-- EN: Restore the light of the universe -->
-  <RemoveEternalLightSTNL>TODO</RemoveEternalLightSTNL>
-	<!-- EN: Stop converting light into energy. -->
-  <RemoveEternalLightDescSTNL>TODO</RemoveEternalLightDescSTNL>
-	
-	<!-- ====Mod Settings==== -->
-	
-	<!-- EN: Apocalypsis/Furari/Ultima/Aeterna Luminis -->
-  <ApocalypsisLuminisSTNL>TODO</ApocalypsisLuminisSTNL>
-	<!-- ====Goodwill Stuff==== -->
-	<!-- EN: Should They Affect Goodwill? -->
-  <ApocalypsisFurariGoodwillCheckSTNL>TODO</ApocalypsisFurariGoodwillCheckSTNL>
-    <!-- EN: If enabled, the abilities mentioned above will affect your relations with other faction by the amount below this option. -->
-  <ApocalypsisFurariGoodwillDescSTNL>TODO</ApocalypsisFurariGoodwillDescSTNL>
-	<!-- ====Darkness Behavior==== -->
-	<!-- EN: Should They Trigger Unnatural Darkness Instead? -->
-  <ApocalypsisFurariAnomalyDarknessCheckSTNL>TODO</ApocalypsisFurariAnomalyDarknessCheckSTNL>
-    <!-- EN: If enabled, the mentioned abilities will cause the Unnatural Darkness event instead of their own night condition.\n\nDisclaimer: Vanilla Unnatural Darkness only harms player controlled pawns. -->
-  <ApocalypsisFurariAnomalyDarknessDescSTNL>TODO</ApocalypsisFurariAnomalyDarknessDescSTNL>
+  <!-- Solar Rift -->
+  <!-- EN: The solar rift has repositioned itself in front of the sun-blocking astral body, effectively ending the eclipse. -->
+  <SolarRiftLightRestoredSTNL>ソーラーリフトは太陽を遮る天体の前に再配置され、食は実質的に終了しました。</SolarRiftLightRestoredSTNL>
+  <!-- Apocalypsis Luminis -->
+  <!-- EN: Cannot use this ability, there is not enough light in the world to absorb. -->
+  <ApocalypsisLuminisDeadWorldSTNL>この能力を使用できません。世界には吸収するだけの光が不足しています。</ApocalypsisLuminisDeadWorldSTNL>
+  <!-- Furari Luminis -->
+  <!-- EN: A Luminis psycaster tried to absorb light, but there wasn't enough to consume. -->
+  <FurariLuminisDeadWorldSTNL>Luminisのサイキャスターが光を吸収しようとしましたが、消費するだけの光がありませんでした。</FurariLuminisDeadWorldSTNL>
+
+  <!-- ====Condition Stuff==== -->
+  <!-- EN: The stars are currently too weak to sustain solar pinholes. -->
+  <LastLightSolarPinholeClosedSTNL>星々の光が現在弱すぎて、ソーラーピンホールを維持できません。</LastLightSolarPinholeClosedSTNL>
+
+  <!-- EN: Restore the light of the universe -->
+  <RemoveEternalLightSTNL>宇宙の光を復元する</RemoveEternalLightSTNL>
+  <!-- EN: Stop converting light into energy. -->
+  <RemoveEternalLightDescSTNL>光をエネルギーに変換するのを停止します。</RemoveEternalLightDescSTNL>
+
+  <!-- ====Mod Settings==== -->
+
+  <!-- EN: Apocalypsis/Furari/Ultima/Aeterna Luminis -->
+  <ApocalypsisLuminisSTNL>アポカリプシス／フラリ／ウルティマ／アエテルナ・ルミニス</ApocalypsisLuminisSTNL>
+  <!-- ====Goodwill Stuff==== -->
+  <!-- EN: Should They Affect Goodwill? -->
+  <ApocalypsisFurariGoodwillCheckSTNL>これらは好意度に影響しますか？</ApocalypsisFurariGoodwillCheckSTNL>
+  <!-- EN: If enabled, the abilities mentioned above will affect your relations with other faction by the amount below this option. -->
+  <ApocalypsisFurariGoodwillDescSTNL>有効にすると、上記の能力はこのオプションの下に設定された量で他勢力との関係に影響を与えます。</ApocalypsisFurariGoodwillDescSTNL>
+  <!-- ====Darkness Behavior==== -->
+  <!-- EN: Should They Trigger Unnatural Darkness Instead? -->
+  <ApocalypsisFurariAnomalyDarknessCheckSTNL>代わりに不自然な闇を引き起こしますか？</ApocalypsisFurariAnomalyDarknessCheckSTNL>
+  <!-- EN: If enabled, the mentioned abilities will cause the Unnatural Darkness event instead of their own night condition.\n\nDisclaimer: Vanilla Unnatural Darkness only harms player controlled pawns. -->
+  <ApocalypsisFurariAnomalyDarknessDescSTNL>有効にすると、前述の能力は独自の夜状態の代わりに「不自然な闇」イベントを発生させます。\n\n注意: バニラの非自然な暗闇はプレイヤー操作下のポーンにのみ害を与えます。</ApocalypsisFurariAnomalyDarknessDescSTNL>
   <!-- Slider Label -->
   <!-- EN: Goodwill change per use: {0} -->
-  <ApocalypsisLuminisGoodwillEffectSTNL>TODO</ApocalypsisLuminisGoodwillEffectSTNL>
+  <ApocalypsisLuminisGoodwillEffectSTNL>使用ごとの好意度変化: {0}</ApocalypsisLuminisGoodwillEffectSTNL>
 </LanguageData>

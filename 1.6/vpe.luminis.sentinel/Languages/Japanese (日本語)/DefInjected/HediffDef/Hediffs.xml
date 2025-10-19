@@ -1,24 +1,24 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: Enlightenment -->
-  <VPE_EnlightenementSTNL.label>TODO</VPE_EnlightenementSTNL.label>
+  <VPE_EnlightenementSTNL.label>啓発</VPE_EnlightenementSTNL.label>
   <!-- EN: This creature is being psychically enlightened by a Luminis psycaster, they will gain faster overall knowledge and psychic influence over others. -->
-  <VPE_EnlightenementSTNL.description>TODO</VPE_EnlightenementSTNL.description>
-  
+  <VPE_EnlightenementSTNL.description>この個体はLuminisのサイキャスターによって精神的に啓発されています。全体的な学習速度と他者への精神的影響力が向上します。</VPE_EnlightenementSTNL.description>
+
   <!-- EN: Eternal Light -->
-  <VPE_EternalLightSTNL.label>TODO</VPE_EternalLightSTNL.label>
+  <VPE_EternalLightSTNL.label>エターナル・ライト</VPE_EternalLightSTNL.label>
   <!-- EN: This person has stolen light from the universe and is converting it into pure energy to reach a temporary state of near immortality, greatly enhancing their capabilities. -->
-  <VPE_EternalLightSTNL.description>TODO</VPE_EternalLightSTNL.description>
-  
+  <VPE_EternalLightSTNL.description>この者は宇宙の光を奪い、純粋なエネルギーへと変換して一時的にほぼ不死に近い状態に達しています。その結果、能力が大幅に強化されています。</VPE_EternalLightSTNL.description>
+
   <!-- EN: Light Of Extinction -->
-  <VPE_LightOfTheWorldSTNL.label>TODO</VPE_LightOfTheWorldSTNL.label>
+  <VPE_LightOfTheWorldSTNL.label>消滅の光</VPE_LightOfTheWorldSTNL.label>
   <!-- EN: This person has stolen light from the world and is converting it into pure energy to reach a temporary state of unprecedented power, greatly enhancing their capabilities for a short duration. -->
-  <VPE_LightOfTheWorldSTNL.description>TODO</VPE_LightOfTheWorldSTNL.description>
-  
+  <VPE_LightOfTheWorldSTNL.description>この者は世界の光を奪い、純粋なエネルギーへと変換してかつてない力を一時的に得ています。短期間にわたり能力が大幅に強化されます。</VPE_LightOfTheWorldSTNL.description>
+
   <!-- EN: Radiant Beacon -->
-  <VPE_RadiantBeaconSTNL.label>TODO</VPE_RadiantBeaconSTNL.label>
+  <VPE_RadiantBeaconSTNL.label>ラディアント・ビーコン</VPE_RadiantBeaconSTNL.label>
   <!-- EN: This person is emitting soothing pulses of light that will heal nearby allies. -->
-  <VPE_RadiantBeaconSTNL.description>TODO</VPE_RadiantBeaconSTNL.description>
-  
+  <VPE_RadiantBeaconSTNL.description>この者は癒やしの光のパルスを放ち、近くの味方を回復させます。</VPE_RadiantBeaconSTNL.description>
+
 </LanguageData>

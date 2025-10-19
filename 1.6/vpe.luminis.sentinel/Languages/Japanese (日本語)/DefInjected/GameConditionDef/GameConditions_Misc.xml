@@ -1,19 +1,19 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: Aeterna Noctis -->
-  <VPE_EternalNightSTNL.label>TODO</VPE_EternalNightSTNL.label>
+  <VPE_EternalNightSTNL.label>アエテルナ・ノクティス</VPE_EternalNightSTNL.label>
   <!-- EN: The light of the universe has been depleted, stars are dim and weak, solar pinholes will fail for the duration of this condition. -->
-  <VPE_EternalNightSTNL.description>TODO</VPE_EternalNightSTNL.description>
-  
+  <VPE_EternalNightSTNL.description>宇宙の光が枯渇し、星々は薄く弱い光しか放っていません。この状態が続く間、ソーラーピンホールは機能しません。</VPE_EternalNightSTNL.description>
+
   <!-- EN: Noctis Apocalypsis -->
-  <VPE_NoctisApocalypsisSTNL.label>TODO</VPE_NoctisApocalypsisSTNL.label>
+  <VPE_NoctisApocalypsisSTNL.label>ノクティス・アポカリプシス</VPE_NoctisApocalypsisSTNL.label>
   <!-- EN: The world's light has been consumed by a Luminis psycaster, light will eventually return after some time.\nSolar Rift will not work as long as this condition is active. -->
-  <VPE_NoctisApocalypsisSTNL.description>TODO</VPE_NoctisApocalypsisSTNL.description>
-  
+  <VPE_NoctisApocalypsisSTNL.description>世界の光はLuminisのサイキャスターによって消費されました。光はしばらくすると戻ります。\nこの状態が続いている間、ソーラーリフトは作動しません。</VPE_NoctisApocalypsisSTNL.description>
+
   <!-- EN: Solar Rift -->
-  <VPE_SolarRiftSTNL.label>TODO</VPE_SolarRiftSTNL.label>
+  <VPE_SolarRiftSTNL.label>ソーラーリフト</VPE_SolarRiftSTNL.label>
   <!-- EN: A rift connected to the sun is in space, it acts as a second sun. -->
-  <VPE_SolarRiftSTNL.description>TODO</VPE_SolarRiftSTNL.description>
-  
+  <VPE_SolarRiftSTNL.description>太陽に繋がった裂け目が宇宙に存在し、第二の太陽として機能します。</VPE_SolarRiftSTNL.description>
+
 </LanguageData>

@@ -4,118 +4,118 @@
   <!-- EN: Aeterna Luminis -->
   <VPE_AeternaLuminisSTNL.label>アエテルナ・ルミニス</VPE_AeternaLuminisSTNL.label>
   <!-- EN: Absorb the light of the universe and convert it into pure energy to reach a state of near immortality, the universe will become void of natural light for as long as the caster maintains their hold over it.\n\nSolar Pinholes will fail for the duration of this condition. -->
-  <VPE_AeternaLuminisSTNL.description>TODO</VPE_AeternaLuminisSTNL.description>
+  <VPE_AeternaLuminisSTNL.description>宇宙の光を吸収し純粋なエネルギーへと変換して、ほぼ不死に近い状態へ到達します。術者が保持を続ける限り、宇宙は自然光を失います。\n\nこの状態ではソーラーピンホールは機能しません。</VPE_AeternaLuminisSTNL.description>
   <!-- EN: Using ability: {0} -->
-  <VPE_AeternaLuminisSTNL.jobReportString>TODO</VPE_AeternaLuminisSTNL.jobReportString>
+  <VPE_AeternaLuminisSTNL.jobReportString>能力使用: {0}</VPE_AeternaLuminisSTNL.jobReportString>
   <!-- EN: Aeterna Luminis -->
-  <VPE_AeternaLuminisSTNL.verbProperties.label>TODO</VPE_AeternaLuminisSTNL.verbProperties.label>
+  <VPE_AeternaLuminisSTNL.verbProperties.label>アエテルナ・ルミニス</VPE_AeternaLuminisSTNL.verbProperties.label>
 
   <!-- EN: Apocalypsis Luminis -->
   <VPE_ApocalypsisLuminisSTNL.label>アポカリプシス・ルミニス</VPE_ApocalypsisLuminisSTNL.label>
   <!-- EN: Absorb the light of the world and unleash it in the form of a devastating cataclysm, the world will become void of natural light for a day following the use of this ability. Apocalypsis Luminis will be unavailable during this time. -->
-  <VPE_ApocalypsisLuminisSTNL.description>TODO</VPE_ApocalypsisLuminisSTNL.description>
+  <VPE_ApocalypsisLuminisSTNL.description>世界の光を吸収し、壊滅的な大災害として解放します。使用後一日は世界が自然光を失い、その間アポカリプシス・ルミニスは使用不可になります。</VPE_ApocalypsisLuminisSTNL.description>
   <!-- EN: Using ability: {0} -->
-  <VPE_ApocalypsisLuminisSTNL.jobReportString>TODO</VPE_ApocalypsisLuminisSTNL.jobReportString>
+  <VPE_ApocalypsisLuminisSTNL.jobReportString>能力使用: {0}</VPE_ApocalypsisLuminisSTNL.jobReportString>
   <!-- EN: Apocalypsis Luminis -->
-  <VPE_ApocalypsisLuminisSTNL.verbProperties.label>TODO</VPE_ApocalypsisLuminisSTNL.verbProperties.label>
+  <VPE_ApocalypsisLuminisSTNL.verbProperties.label>アポカリプシス・ルミニス</VPE_ApocalypsisLuminisSTNL.verbProperties.label>
 
   <!-- EN: Blinding Flash -->
   <VPE_BlindingFlashSTNL.label>ブラインディング・フラッシュ</VPE_BlindingFlashSTNL.label>
   <!-- EN: Generate a bright explosion of light that will temporarily blind and disorient the targets, stunning them for a few seconds as their vision returns to normal. \n\nDuration of the stun scales with psychic sensitivity. -->
-  <VPE_BlindingFlashSTNL.description>TODO</VPE_BlindingFlashSTNL.description>
+  <VPE_BlindingFlashSTNL.description>強烈な光の爆発を発生させ、対象を一時的に盲目かつ混乱させます。視力が戻るまで数秒間気絶状態になります。\n\n気絶時間は精神感受性に応じて増減します。</VPE_BlindingFlashSTNL.description>
   <!-- EN: Using ability: {0} -->
-  <VPE_BlindingFlashSTNL.jobReportString>TODO</VPE_BlindingFlashSTNL.jobReportString>
+  <VPE_BlindingFlashSTNL.jobReportString>能力使用: {0}</VPE_BlindingFlashSTNL.jobReportString>
   <!-- EN: Blinding Flash -->
-  <VPE_BlindingFlashSTNL.verbProperties.label>TODO</VPE_BlindingFlashSTNL.verbProperties.label>
+  <VPE_BlindingFlashSTNL.verbProperties.label>ブラインディング・フラッシュ</VPE_BlindingFlashSTNL.verbProperties.label>
 
   <!-- EN: Enlighten -->
   <VPE_EnlightenSTNL.label>啓発</VPE_EnlightenSTNL.label>
   <!-- EN: Psychically grant greater learning capabilities as well as increased consciousness and psychic sensitivity to the target for a day. -->
-  <VPE_EnlightenSTNL.description>TODO</VPE_EnlightenSTNL.description>
+  <VPE_EnlightenSTNL.description>対象に対して精神的に学習能力の向上と意識および精神感受性の増加を一日付与します。</VPE_EnlightenSTNL.description>
   <!-- EN: Using ability: {0} -->
-  <VPE_EnlightenSTNL.jobReportString>TODO</VPE_EnlightenSTNL.jobReportString>
+  <VPE_EnlightenSTNL.jobReportString>能力使用: {0}</VPE_EnlightenSTNL.jobReportString>
   <!-- EN: Enlighten -->
-  <VPE_EnlightenSTNL.verbProperties.label>TODO</VPE_EnlightenSTNL.verbProperties.label>
+  <VPE_EnlightenSTNL.verbProperties.label>啓発</VPE_EnlightenSTNL.verbProperties.label>
 
   <!-- EN: Flash Skip -->
   <VPE_FlashSkipSTNL.label>フラッシュ・スキップ</VPE_FlashSkipSTNL.label>
   <!-- EN: Turn yourself into a beam of light and dash to the target location, any creature caught in the radius will become stunned for a short time. -->
-  <VPE_FlashSkipSTNL.description>TODO</VPE_FlashSkipSTNL.description>
+  <VPE_FlashSkipSTNL.description>自分を光のビームに変え、目標地点へダッシュします。範囲内の生物は短時間気絶します。</VPE_FlashSkipSTNL.description>
   <!-- EN: Using ability: {0} -->
-  <VPE_FlashSkipSTNL.jobReportString>TODO</VPE_FlashSkipSTNL.jobReportString>
+  <VPE_FlashSkipSTNL.jobReportString>能力使用: {0}</VPE_FlashSkipSTNL.jobReportString>
   <!-- EN: Flash Skip -->
-  <VPE_FlashSkipSTNL.verbProperties.label>TODO</VPE_FlashSkipSTNL.verbProperties.label>
+  <VPE_FlashSkipSTNL.verbProperties.label>フラッシュ・スキップ</VPE_FlashSkipSTNL.verbProperties.label>
 
   <!-- EN: Furari Luminis -->
   <VPE_FurariLuminisSTNL.label>フラリ・ルミニス</VPE_FurariLuminisSTNL.label>
   <!-- EN: Absorb the light of the world and convert it into pure energy to massively empower yourself for a short time, the world will become void of natural light for a day following the use of this ability. Furari Luminis will be unavailable during this time. -->
-  <VPE_FurariLuminisSTNL.description>TODO</VPE_FurariLuminisSTNL.description>
+  <VPE_FurariLuminisSTNL.description>世界の光を吸収し、短時間自らを大幅に強化する純粋なエネルギーへと変換します。使用後一日は世界が自然光を失い、その間フラリ・ルミニスは使用不可になります。</VPE_FurariLuminisSTNL.description>
   <!-- EN: Using ability: {0} -->
-  <VPE_FurariLuminisSTNL.jobReportString>TODO</VPE_FurariLuminisSTNL.jobReportString>
+  <VPE_FurariLuminisSTNL.jobReportString>能力使用: {0}</VPE_FurariLuminisSTNL.jobReportString>
   <!-- EN: Furari Luminis -->
-  <VPE_FurariLuminisSTNL.verbProperties.label>TODO</VPE_FurariLuminisSTNL.verbProperties.label>
+  <VPE_FurariLuminisSTNL.verbProperties.label>フラリ・ルミニス</VPE_FurariLuminisSTNL.verbProperties.label>
 
   <!-- EN: Greater Solar Pinhole -->
   <VPE_GreaterSolarPinholeSTNL.label>グレーター・ソーラーピンホール</VPE_GreaterSolarPinholeSTNL.label>
   <!-- EN: Form a miniature portal directly linked to the nearest star, this pinhole will allow more light to pass through, allowing for plant growth. This portal is large enough to persist and will remain until manually dispersed at the cost of letting out a lot more heat than a standard solar pinhole. -->
-  <VPE_GreaterSolarPinholeSTNL.description>TODO</VPE_GreaterSolarPinholeSTNL.description>
+  <VPE_GreaterSolarPinholeSTNL.description>最寄りの恒星へ直接つながる小さなポータルを形成します。このピンホールはより多くの光を通し、植物の生育を可能にします。ポータルは持続する大きさで、手動で消散させるまで残りますが、標準的なソーラーピンホールよりずっと多くの熱を放出します。</VPE_GreaterSolarPinholeSTNL.description>
   <!-- EN: Using ability: {0} -->
-  <VPE_GreaterSolarPinholeSTNL.jobReportString>TODO</VPE_GreaterSolarPinholeSTNL.jobReportString>
+  <VPE_GreaterSolarPinholeSTNL.jobReportString>能力使用: {0}</VPE_GreaterSolarPinholeSTNL.jobReportString>
   <!-- EN: Greater Solar Pinhole -->
-  <VPE_GreaterSolarPinholeSTNL.verbProperties.label>TODO</VPE_GreaterSolarPinholeSTNL.verbProperties.label>
+  <VPE_GreaterSolarPinholeSTNL.verbProperties.label>グレーター・ソーラーピンホール</VPE_GreaterSolarPinholeSTNL.verbProperties.label>
 
   <!-- EN: Radiant Beacon -->
   <VPE_RadiantBeaconSTNL.label>ラディアント・ビーコン</VPE_RadiantBeaconSTNL.label>
   <!-- EN: Release pulses of soothing psychic energy every half second, these pulses will heal nearby allies while prioritizing bleeding wounds. -->
-  <VPE_RadiantBeaconSTNL.description>TODO</VPE_RadiantBeaconSTNL.description>
+  <VPE_RadiantBeaconSTNL.description>0.5秒ごとに癒やしの精神エネルギーを放つパルスを発生させ、近くの味方を回復します。出血のある傷を優先して治癒します。</VPE_RadiantBeaconSTNL.description>
   <!-- EN: Using ability: {0} -->
-  <VPE_RadiantBeaconSTNL.jobReportString>TODO</VPE_RadiantBeaconSTNL.jobReportString>
+  <VPE_RadiantBeaconSTNL.jobReportString>能力使用: {0}</VPE_RadiantBeaconSTNL.jobReportString>
   <!-- EN: Radiant Beacon -->
-  <VPE_RadiantBeaconSTNL.verbProperties.label>TODO</VPE_RadiantBeaconSTNL.verbProperties.label>
+  <VPE_RadiantBeaconSTNL.verbProperties.label>ラディアント・ビーコン</VPE_RadiantBeaconSTNL.verbProperties.label>
 
   <!-- EN: Saving Light -->
   <VPE_SavingLightSTNL.label>セービング・ライト</VPE_SavingLightSTNL.label>
   <!-- EN: Form bandages made out of pure light around the target's wounds to tend them. -->
-  <VPE_SavingLightSTNL.description>TODO</VPE_SavingLightSTNL.description>
+  <VPE_SavingLightSTNL.description>対象の傷の周りに純粋な光で包帯を形成して手当てを行います。</VPE_SavingLightSTNL.description>
   <!-- EN: Using ability: {0} -->
-  <VPE_SavingLightSTNL.jobReportString>TODO</VPE_SavingLightSTNL.jobReportString>
+  <VPE_SavingLightSTNL.jobReportString>能力使用: {0}</VPE_SavingLightSTNL.jobReportString>
   <!-- EN: Saving Light -->
-  <VPE_SavingLightSTNL.verbProperties.label>TODO</VPE_SavingLightSTNL.verbProperties.label>
+  <VPE_SavingLightSTNL.verbProperties.label>セービング・ライト</VPE_SavingLightSTNL.verbProperties.label>
 
   <!-- EN: Solar Flare -->
   <VPE_SolarFlareSTNL.label>ソーラーフレア</VPE_SolarFlareSTNL.label>
   <!-- EN: Provoke a solar eruption in a nearby star and redirect the electromagnetic radiation to the local area, disabling electronics for a day. -->
-  <VPE_SolarFlareSTNL.description>TODO</VPE_SolarFlareSTNL.description>
+  <VPE_SolarFlareSTNL.description>近傍の恒星で太陽噴出を誘発し、電磁放射を局所的な領域へ誘導して電子機器を一日無力化します。</VPE_SolarFlareSTNL.description>
   <!-- EN: Using ability: {0} -->
-  <VPE_SolarFlareSTNL.jobReportString>TODO</VPE_SolarFlareSTNL.jobReportString>
+  <VPE_SolarFlareSTNL.jobReportString>能力使用: {0}</VPE_SolarFlareSTNL.jobReportString>
   <!-- EN: Solar Flare -->
-  <VPE_SolarFlareSTNL.verbProperties.label>TODO</VPE_SolarFlareSTNL.verbProperties.label>
+  <VPE_SolarFlareSTNL.verbProperties.label>ソーラーフレア</VPE_SolarFlareSTNL.verbProperties.label>
 
   <!-- EN: Solar Rift -->
   <VPE_SolarRiftSTNL.label>ソーラー・リフト</VPE_SolarRiftSTNL.label>
   <!-- EN: Create a massive rift in the sky that is directly connected to the sun, the rift will allow sunlight to pass through, resulting in global daytime. -->
-  <VPE_SolarRiftSTNL.description>TODO</VPE_SolarRiftSTNL.description>
+  <VPE_SolarRiftSTNL.description>太陽に直接つながる巨大な裂け目を空に作り、裂け目から日光が差し込むことで世界的な昼間をもたらします。</VPE_SolarRiftSTNL.description>
   <!-- EN: Using ability: {0} -->
-  <VPE_SolarRiftSTNL.jobReportString>TODO</VPE_SolarRiftSTNL.jobReportString>
+  <VPE_SolarRiftSTNL.jobReportString>能力使用: {0}</VPE_SolarRiftSTNL.jobReportString>
   <!-- EN: Solar Rift -->
-  <VPE_SolarRiftSTNL.verbProperties.label>TODO</VPE_SolarRiftSTNL.verbProperties.label>
+  <VPE_SolarRiftSTNL.verbProperties.label>ソーラー・リフト</VPE_SolarRiftSTNL.verbProperties.label>
 
   <!-- EN: Sun Beam -->
   <VPE_SunBeamSTNL.label>サン・ビーム</VPE_SunBeamSTNL.label>
   <!-- EN: Form a controlled massive solar eruption at the target location to scorch the area. -->
-  <VPE_SunBeamSTNL.description>TODO</VPE_SunBeamSTNL.description>
+  <VPE_SunBeamSTNL.description>目標地点で制御された大規模な太陽噴出を発生させ、周辺を焼き払います。</VPE_SunBeamSTNL.description>
   <!-- EN: Using ability: {0} -->
-  <VPE_SunBeamSTNL.jobReportString>TODO</VPE_SunBeamSTNL.jobReportString>
+  <VPE_SunBeamSTNL.jobReportString>能力使用: {0}</VPE_SunBeamSTNL.jobReportString>
   <!-- EN: Sun Beam -->
-  <VPE_SunBeamSTNL.verbProperties.label>TODO</VPE_SunBeamSTNL.verbProperties.label>
+  <VPE_SunBeamSTNL.verbProperties.label>サン・ビーム</VPE_SunBeamSTNL.verbProperties.label>
 
   <!-- EN: Ultima Luminis -->
   <VPE_UltimaLuminisSTNL.label>ウルティマ・ルミニス</VPE_UltimaLuminisSTNL.label>
   <!-- EN: Absorb the light of the universe and annihilate the target area with a super-massive cataclysm of pure light capable of destroying even heat resisting creatures, the universe will become void of natural light for a quadrum following the use of this ability. Ultima Luminis will be unavailable during this time.\n\nSolar Pinholes will fail for the duration of this condition. -->
-  <VPE_UltimaLuminisSTNL.description>TODO</VPE_UltimaLuminisSTNL.description>
+  <VPE_UltimaLuminisSTNL.description>宇宙の光を吸収し、純粋な光の超巨大な大災害で目標領域を壊滅させます。耐熱性のある生物でさえ破壊し得る威力です。使用後1四半期（quadrum）にわたり宇宙は自然光を失い、その間ウルティマ・ルミニスは使用不可になります。\n\nこの状態ではソーラーピンホールは機能しません。</VPE_UltimaLuminisSTNL.description>
   <!-- EN: Using ability: {0} -->
-  <VPE_UltimaLuminisSTNL.jobReportString>TODO</VPE_UltimaLuminisSTNL.jobReportString>
+  <VPE_UltimaLuminisSTNL.jobReportString>能力使用: {0}</VPE_UltimaLuminisSTNL.jobReportString>
   <!-- EN: Ultima Luminis -->
-  <VPE_UltimaLuminisSTNL.verbProperties.label>TODO</VPE_UltimaLuminisSTNL.verbProperties.label>
+  <VPE_UltimaLuminisSTNL.verbProperties.label>ウルティマ・ルミニス</VPE_UltimaLuminisSTNL.verbProperties.label>
 
 </LanguageData>
