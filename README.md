@@ -50,7 +50,8 @@ VPsyEの拡張Mod群である [Too many VPE Paths](https://steamcommunity.com/sh
 
 ## 訳注
 
-* サイキャスト名は基本的にそのままカタカナにしてあります
+* パス名はアルファベットのままにしてあります
+* サイキャスト名は基本的にはそのままカタカナにしてあります
   * `Solar Rift` → `ソーラーリフト`
 
 原文中の節と訳文の対応については [用語集](.github/instructions/glossary.instructions.md) 参照
