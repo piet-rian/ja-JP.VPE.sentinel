@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: Torrential Rain -->
-  <TorrentialRainSTNL.label>TODO</TorrentialRainSTNL.label>
+  <TorrentialRainSTNL.label>集中豪雨</TorrentialRainSTNL.label>
   <!-- EN: An Hydromancer is causing a torrential rain in the area that will extinguish fires and reduce accuracy as well as cause floods. -->
   <TorrentialRainSTNL.description>TODO</TorrentialRainSTNL.description>
-  
+
 </LanguageData>

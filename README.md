@@ -8,6 +8,7 @@ VPsyEの拡張Mod群である [Too many VPE Paths](https://steamcommunity.com/sh
 
 * VPE - Luminis
 * VPE - Geomancer
+* VPE - Hydromancer
 
 ## 翻訳対象外
 
@@ -57,7 +58,7 @@ VPsyEの拡張Mod群である [Too many VPE Paths](https://steamcommunity.com/sh
 * サイキャスト名は基本的にはそのままカタカナにしてあります
   * `Solar Rift` → `ソーラーリフト`
 * ただし、日本語に訳したほうが意味が通りやすいと判断した場合はその限りではありません
-  * `Detect Ore` → `鉱石探知`
+  * `Torrential Rain` → `集中豪雨`
 
 原文中の節と訳文の対応については [用語集](.github/instructions/glossary.instructions.md) 参照
 
