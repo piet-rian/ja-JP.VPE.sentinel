@@ -40,7 +40,7 @@
   <!-- EN: Neural Siphon -->
   <VPE_HydromancerNeuralSiphonSTNL.label>ニューラル・サイフォン</VPE_HydromancerNeuralSiphonSTNL.label>
   <!-- EN: Become a living heat sink for nearby psycasters, taking their neural heat for yourself.\n\nThis ability will cancel itself early if the caster gets knocked down. -->
-  <VPE_HydromancerNeuralSiphonSTNL.description>近くのサイキャスターの神経熱を自分に引き寄せ、生きた熱吸収体となります。\n\nキャスターが気絶するとこの能力は早期に終了します。</VPE_HydromancerNeuralSiphonSTNL.description>
+  <VPE_HydromancerNeuralSiphonSTNL.description>近くのサイキャスターニューラルヒートを自分が引き受けます。\n\n術者が気絶するとこの能力は早期に終了します。</VPE_HydromancerNeuralSiphonSTNL.description>
   <!-- EN: Using ability: {0} -->
   <VPE_HydromancerNeuralSiphonSTNL.jobReportString>能力を使用中: {0}</VPE_HydromancerNeuralSiphonSTNL.jobReportString>
   <!-- EN: Neural Siphon -->
