@@ -3,9 +3,9 @@
 
 	<!-- ========Input Reject======== -->
 	<!-- EN: No valid chunk found in this cell. -->
-  <NoChunkInThereSTNL>TODO</NoChunkInThereSTNL>
+	<NoChunkInThereSTNL>このセルには有効な岩塊が見つかりません。</NoChunkInThereSTNL>
 	<!-- EN: Couldn't find a pelvis inside this. -->
-  <NoPelvisInThereSTNL>TODO</NoPelvisInThereSTNL>
+	<NoPelvisInThereSTNL>骨盤が見つかりませんでした。</NoPelvisInThereSTNL>
 	<!-- EN: This creature doesn't have any psychic sensitivity. -->
-  <NoPsychicSensiInThereSTNL>TODO</NoPsychicSensiInThereSTNL>
+	<NoPsychicSensiInThereSTNL>この生物は精神感受性を持っていません。</NoPsychicSensiInThereSTNL>
 </LanguageData>

@@ -4,118 +4,119 @@
   <!-- EN: Chunk Burst -->
   <VPE_ChunkBurstSTNL.label>チャンク・バースト</VPE_ChunkBurstSTNL.label>
   <!-- EN: Psychically destabilize the minerals present within the target chunk, causing it to detonate.\nDamage scales with psychic sensitivity (100% sensitivity = 10 damage) -->
-  <VPE_ChunkBurstSTNL.description>TODO</VPE_ChunkBurstSTNL.description>
+  <VPE_ChunkBurstSTNL.description>対象の岩塊に存在する鉱物を精神的に不安定化させ、爆発させます。ダメージは精神感受性に比例します（感受性100% = 10ダメージ）。</VPE_ChunkBurstSTNL.description>
   <!-- EN: Using ability: {0} -->
-  <VPE_ChunkBurstSTNL.jobReportString>TODO</VPE_ChunkBurstSTNL.jobReportString>
+  <VPE_ChunkBurstSTNL.jobReportString>能力を使用中: {0}</VPE_ChunkBurstSTNL.jobReportString>
   <!-- EN: Chunk Burst -->
-  <VPE_ChunkBurstSTNL.verbProperties.label>TODO</VPE_ChunkBurstSTNL.verbProperties.label>
+  <VPE_ChunkBurstSTNL.verbProperties.label>チャンク・バースト</VPE_ChunkBurstSTNL.verbProperties.label>
 
   <!-- EN: Chunk Manifestation -->
   <VPE_ChunkSkipSTNL.label>チャンク・マニフェステーション</VPE_ChunkSkipSTNL.label>
   <!-- EN: Skip a chunk made out of random rocks from within the planet to the target location. -->
-  <VPE_ChunkSkipSTNL.description>TODO</VPE_ChunkSkipSTNL.description>
+  <VPE_ChunkSkipSTNL.description>惑星内部のランダムな岩石でできた岩塊を標的地点へ瞬間移動させます。</VPE_ChunkSkipSTNL.description>
   <!-- EN: Using ability: {0} -->
-  <VPE_ChunkSkipSTNL.jobReportString>TODO</VPE_ChunkSkipSTNL.jobReportString>
+  <VPE_ChunkSkipSTNL.jobReportString>能力を使用中: {0}</VPE_ChunkSkipSTNL.jobReportString>
   <!-- EN: Chunk Manifestation -->
-  <VPE_ChunkSkipSTNL.verbProperties.label>TODO</VPE_ChunkSkipSTNL.verbProperties.label>
+  <VPE_ChunkSkipSTNL.verbProperties.label>チャンク・マニフェステーション</VPE_ChunkSkipSTNL.verbProperties.label>
 
   <!-- EN: Deep Skip -->
-  <VPE_DeepSkipSTNL.label>ディープ/スキップ</VPE_DeepSkipSTNL.label>
+  <VPE_DeepSkipSTNL.label>ディープ・スキップ</VPE_DeepSkipSTNL.label>
   <!-- EN: Skip the targets deep into this rimworld and crush them between moving tectonic plates, causing them to perish from the sheer crushing force exerted upon them. -->
-  <VPE_DeepSkipSTNL.description>TODO</VPE_DeepSkipSTNL.description>
+  <VPE_DeepSkipSTNL.description>対象を地中深くへ瞬間移動させ、移動するプレートの間で圧死させます。圧力により即死します。</VPE_DeepSkipSTNL.description>
   <!-- EN: Using ability: {0} -->
-  <VPE_DeepSkipSTNL.jobReportString>TODO</VPE_DeepSkipSTNL.jobReportString>
+  <VPE_DeepSkipSTNL.jobReportString>能力を使用中: {0}</VPE_DeepSkipSTNL.jobReportString>
   <!-- EN: Deep Skip -->
-  <VPE_DeepSkipSTNL.verbProperties.label>TODO</VPE_DeepSkipSTNL.verbProperties.label>
+  <VPE_DeepSkipSTNL.verbProperties.label>ディープ・スキップ</VPE_DeepSkipSTNL.verbProperties.label>
 
   <!-- EN: Geo Aegis -->
   <VPE_GeoAegisSTNL.label>ジオ・イージス</VPE_GeoAegisSTNL.label>
   <!-- EN: Skip a chunk from a distant mountain above the target location, that chunk will act as overhead mountain. -->
-  <VPE_GeoAegisSTNL.description>TODO</VPE_GeoAegisSTNL.description>
+  <VPE_GeoAegisSTNL.description>遠方の山から岩塊を標的上空へ移動させ、その岩塊が天井の山のように振る舞います。</VPE_GeoAegisSTNL.description>
   <!-- EN: Using ability: {0} -->
-  <VPE_GeoAegisSTNL.jobReportString>TODO</VPE_GeoAegisSTNL.jobReportString>
+  <VPE_GeoAegisSTNL.jobReportString>能力を使用中: {0}</VPE_GeoAegisSTNL.jobReportString>
   <!-- EN: Geo Aegis -->
-  <VPE_GeoAegisSTNL.verbProperties.label>TODO</VPE_GeoAegisSTNL.verbProperties.label>
+  <VPE_GeoAegisSTNL.verbProperties.label>ジオ・イージス</VPE_GeoAegisSTNL.verbProperties.label>
 
   <!-- EN: Overhead Collapse -->
-  <VPE_GeoDestructionSTNL.label>オーバーヘッド・コラップス</VPE_GeoDestructionSTNL.label>
+  <VPE_GeoDestructionSTNL.label>頭上崩壊</VPE_GeoDestructionSTNL.label>
   <!-- EN: Weaken the structural integrity of the roof above the target location, causing it to collapse down onto anything that is below. -->
-  <VPE_GeoDestructionSTNL.description>TODO</VPE_GeoDestructionSTNL.description>
+  <VPE_GeoDestructionSTNL.description>標的地点上空の構造物の強度を弱め、上にある屋根や構造物を崩落させます。</VPE_GeoDestructionSTNL.description>
   <!-- EN: Using ability: {0} -->
-  <VPE_GeoDestructionSTNL.jobReportString>TODO</VPE_GeoDestructionSTNL.jobReportString>
+  <VPE_GeoDestructionSTNL.jobReportString>能力を使用中: {0}</VPE_GeoDestructionSTNL.jobReportString>
   <!-- EN: Overhead Collapse -->
-  <VPE_GeoDestructionSTNL.verbProperties.label>TODO</VPE_GeoDestructionSTNL.verbProperties.label>
+  <VPE_GeoDestructionSTNL.verbProperties.label>頭上崩壊</VPE_GeoDestructionSTNL.verbProperties.label>
 
   <!-- EN: Geo Shield -->
   <VPE_GeoShieldSTNL.label>ジオ・シールド</VPE_GeoShieldSTNL.label>
   <!-- EN: Protect the target with a shield made out of floating stones, this shield will negate stagger and halve damage taken for the duration of this ability.\nDuration scales with psychic sensitivity (100% sensitivity = 2 hours) -->
-  <VPE_GeoShieldSTNL.description>TODO</VPE_GeoShieldSTNL.description>
+  <VPE_GeoShieldSTNL.description>浮遊する岩石で作られた盾で標的を保護します。効果中はよろけが無効化され、受けるダメージが半減します。
+    効果時間は精神感受性に応じて伸びます（感受性100% = 2時間）。</VPE_GeoShieldSTNL.description>
   <!-- EN: Using ability: {0} -->
-  <VPE_GeoShieldSTNL.jobReportString>TODO</VPE_GeoShieldSTNL.jobReportString>
+  <VPE_GeoShieldSTNL.jobReportString>能力を使用中: {0}</VPE_GeoShieldSTNL.jobReportString>
   <!-- EN: Geo Shield -->
-  <VPE_GeoShieldSTNL.verbProperties.label>TODO</VPE_GeoShieldSTNL.verbProperties.label>
+  <VPE_GeoShieldSTNL.verbProperties.label>ジオ・シールド</VPE_GeoShieldSTNL.verbProperties.label>
 
   <!-- EN: Kidney Stone -->
   <VPE_KidneyStoneSTNL.label>尿路結石</VPE_KidneyStoneSTNL.label>
   <!-- EN: Skip a peeble inside of the target's pelvic area, this peeble will cause intense pain and an infection. -->
-  <VPE_KidneyStoneSTNL.description>TODO</VPE_KidneyStoneSTNL.description>
+  <VPE_KidneyStoneSTNL.description>標的の骨盤内に小石を送り込み、強烈な痛みと感染を引き起こさせます。</VPE_KidneyStoneSTNL.description>
   <!-- EN: Using ability: {0} -->
-  <VPE_KidneyStoneSTNL.jobReportString>TODO</VPE_KidneyStoneSTNL.jobReportString>
+  <VPE_KidneyStoneSTNL.jobReportString>能力を使用中: {0}</VPE_KidneyStoneSTNL.jobReportString>
   <!-- EN: Kidney Stone -->
-  <VPE_KidneyStoneSTNL.verbProperties.label>TODO</VPE_KidneyStoneSTNL.verbProperties.label>
+  <VPE_KidneyStoneSTNL.verbProperties.label>尿路結石</VPE_KidneyStoneSTNL.verbProperties.label>
 
   <!-- EN: Mass Chunk Burst -->
   <VPE_MassChunkBurstSTNL.label>マス・チャンク・バースト</VPE_MassChunkBurstSTNL.label>
   <!-- EN: Psychically destabilize the minerals present within the target chunks, causing them to detonate.\nDamage scales with psychic sensitivity (100% sensitivity = 10 damage) -->
-  <VPE_MassChunkBurstSTNL.description>TODO</VPE_MassChunkBurstSTNL.description>
+  <VPE_MassChunkBurstSTNL.description>複数の岩塊内の鉱物を精神的に不安定化させ、一斉に爆発させます。ダメージは精神感受性に比例します（感受性100% = 10ダメージ）。</VPE_MassChunkBurstSTNL.description>
   <!-- EN: Using ability: {0} -->
-  <VPE_MassChunkBurstSTNL.jobReportString>TODO</VPE_MassChunkBurstSTNL.jobReportString>
+  <VPE_MassChunkBurstSTNL.jobReportString>能力を使用中: {0}</VPE_MassChunkBurstSTNL.jobReportString>
   <!-- EN: Mass Chunk Burst -->
-  <VPE_MassChunkBurstSTNL.verbProperties.label>TODO</VPE_MassChunkBurstSTNL.verbProperties.label>
+  <VPE_MassChunkBurstSTNL.verbProperties.label>マス・チャンク・バースト</VPE_MassChunkBurstSTNL.verbProperties.label>
 
   <!-- EN: Mineralize Soil -->
   <VPE_MineralizeSTNL.label>ミネラライズ・ソイル</VPE_MineralizeSTNL.label>
   <!-- EN: Alter the composition of the target soil to possess a larger concentration of minerals required for plant growth, turning it into rich soil. -->
-  <VPE_MineralizeSTNL.description>TODO</VPE_MineralizeSTNL.description>
+  <VPE_MineralizeSTNL.description>標的の土壌組成を変化させ、植物の成長に必要な鉱物濃度を高め、肥沃な土にします。</VPE_MineralizeSTNL.description>
   <!-- EN: Using ability: {0} -->
-  <VPE_MineralizeSTNL.jobReportString>TODO</VPE_MineralizeSTNL.jobReportString>
+  <VPE_MineralizeSTNL.jobReportString>能力を使用中: {0}</VPE_MineralizeSTNL.jobReportString>
   <!-- EN: Mineralize Soil -->
-  <VPE_MineralizeSTNL.verbProperties.label>TODO</VPE_MineralizeSTNL.verbProperties.label>
+  <VPE_MineralizeSTNL.verbProperties.label>ミネラライズ・ソイル</VPE_MineralizeSTNL.verbProperties.label>
 
   <!-- EN: Detect Ore -->
-  <VPE_OrePulseSTNL.label>鉱石発見</VPE_OrePulseSTNL.label>
+  <VPE_OrePulseSTNL.label>鉱石探知</VPE_OrePulseSTNL.label>
   <!-- EN: Send out a psychic pulse that will echo back on ores, showing their location through walls. -->
-  <VPE_OrePulseSTNL.description>TODO</VPE_OrePulseSTNL.description>
+  <VPE_OrePulseSTNL.description>鉱石に反響する精神パルスを放ち、壁越しに鉱床の位置を表示します。</VPE_OrePulseSTNL.description>
   <!-- EN: Using ability: {0} -->
-  <VPE_OrePulseSTNL.jobReportString>TODO</VPE_OrePulseSTNL.jobReportString>
+  <VPE_OrePulseSTNL.jobReportString>能力を使用中: {0}</VPE_OrePulseSTNL.jobReportString>
   <!-- EN: Detect Ore -->
-  <VPE_OrePulseSTNL.verbProperties.label>TODO</VPE_OrePulseSTNL.verbProperties.label>
+  <VPE_OrePulseSTNL.verbProperties.label>鉱石探知</VPE_OrePulseSTNL.verbProperties.label>
 
   <!-- EN: Quake -->
   <VPE_QuakeSTNL.label>クエイク</VPE_QuakeSTNL.label>
   <!-- EN: Cause the ground beneath the targets to tremble, stunning them for a few seconds. Scales with psychic sensitivity.\n(100% sensitivity = 2 sec stun) -->
-  <VPE_QuakeSTNL.description>TODO</VPE_QuakeSTNL.description>
+  <VPE_QuakeSTNL.description>標的下の地面を震わせ、数秒間スタンさせます。効果は精神感受性に依存します（感受性100% = 2秒スタン）。</VPE_QuakeSTNL.description>
   <!-- EN: Using ability: {0} -->
-  <VPE_QuakeSTNL.jobReportString>TODO</VPE_QuakeSTNL.jobReportString>
+  <VPE_QuakeSTNL.jobReportString>能力を使用中: {0}</VPE_QuakeSTNL.jobReportString>
   <!-- EN: Quake -->
-  <VPE_QuakeSTNL.verbProperties.label>TODO</VPE_QuakeSTNL.verbProperties.label>
+  <VPE_QuakeSTNL.verbProperties.label>クエイク</VPE_QuakeSTNL.verbProperties.label>
 
   <!-- EN: Sandstorm -->
   <VPE_SandstormSTNL.label>サンドストーム</VPE_SandstormSTNL.label>
   <!-- EN: Warp a distant sandstorm towards your location, it will reduce accuracy and slow down anyone not under a roof. -->
-  <VPE_SandstormSTNL.description>TODO</VPE_SandstormSTNL.description>
+  <VPE_SandstormSTNL.description>遠方の砂嵐を引き寄せ、屋根のない者の命中率を下げ、移動を遅くします。</VPE_SandstormSTNL.description>
   <!-- EN: Using ability: {0} -->
-  <VPE_SandstormSTNL.jobReportString>TODO</VPE_SandstormSTNL.jobReportString>
+  <VPE_SandstormSTNL.jobReportString>能力を使用中: {0}</VPE_SandstormSTNL.jobReportString>
   <!-- EN: Sandstorm -->
-  <VPE_SandstormSTNL.verbProperties.label>TODO</VPE_SandstormSTNL.verbProperties.label>
+  <VPE_SandstormSTNL.verbProperties.label>サンドストーム</VPE_SandstormSTNL.verbProperties.label>
 
   <!-- EN: Soul Shard -->
   <VPE_SoulGemSTNL.label>ソウル・シャード</VPE_SoulGemSTNL.label>
   <!-- EN: Bind the target creature's life force to a small rock that a psycaster can use to refill their psyfocus, this action will kill the target. -->
-  <VPE_SoulGemSTNL.description>TODO</VPE_SoulGemSTNL.description>
+  <VPE_SoulGemSTNL.description>標的の生命力を小さな岩石に封じ込めます。サイキャスターはこれを消費してサイフォーカスを回復できます。実行すると標的は死亡します。</VPE_SoulGemSTNL.description>
   <!-- EN: Using ability: {0} -->
-  <VPE_SoulGemSTNL.jobReportString>TODO</VPE_SoulGemSTNL.jobReportString>
+  <VPE_SoulGemSTNL.jobReportString>能力を使用中: {0}</VPE_SoulGemSTNL.jobReportString>
   <!-- EN: Soul Shard -->
-  <VPE_SoulGemSTNL.verbProperties.label>TODO</VPE_SoulGemSTNL.verbProperties.label>
+  <VPE_SoulGemSTNL.verbProperties.label>ソウル・シャード</VPE_SoulGemSTNL.verbProperties.label>
 
 </LanguageData>

@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: Sandstorm -->
-  <SandstormSTNL.label>TODO</SandstormSTNL.label>
+  <SandstormSTNL.label>砂嵐</SandstormSTNL.label>
   <!-- EN: A Geomancer is causing a sandstorm that will reduce accuracy and slow down anyone outside. -->
-  <SandstormSTNL.description>TODO</SandstormSTNL.description>
-  
+  <SandstormSTNL.description>Geomancerが引き起こした砂嵐です。屋外にいる者は命中率が低下し、移動速度が遅くなります。</SandstormSTNL.description>
+
 </LanguageData>
