@@ -2,22 +2,22 @@
 <LanguageData>
 
   <!-- EN: Chunk Burst -->
-  <VPE_ChunkBurstSTNL.label>チャンク・バースト</VPE_ChunkBurstSTNL.label>
+  <VPE_ChunkBurstSTNL.label>岩塊爆破</VPE_ChunkBurstSTNL.label>
   <!-- EN: Psychically destabilize the minerals present within the target chunk, causing it to detonate.\nDamage scales with psychic sensitivity (100% sensitivity = 10 damage) -->
   <VPE_ChunkBurstSTNL.description>対象の岩塊に存在する鉱物を精神的に不安定化させ、爆発させます。ダメージは精神感受性に比例します（感受性100% = 10ダメージ）。</VPE_ChunkBurstSTNL.description>
   <!-- EN: Using ability: {0} -->
   <VPE_ChunkBurstSTNL.jobReportString>能力を使用中: {0}</VPE_ChunkBurstSTNL.jobReportString>
   <!-- EN: Chunk Burst -->
-  <VPE_ChunkBurstSTNL.verbProperties.label>チャンク・バースト</VPE_ChunkBurstSTNL.verbProperties.label>
+  <VPE_ChunkBurstSTNL.verbProperties.label>岩塊爆破</VPE_ChunkBurstSTNL.verbProperties.label>
 
   <!-- EN: Chunk Manifestation -->
-  <VPE_ChunkSkipSTNL.label>チャンク・マニフェステーション</VPE_ChunkSkipSTNL.label>
+  <VPE_ChunkSkipSTNL.label>岩塊召喚</VPE_ChunkSkipSTNL.label>
   <!-- EN: Skip a chunk made out of random rocks from within the planet to the target location. -->
   <VPE_ChunkSkipSTNL.description>惑星内部のランダムな岩石でできた岩塊を標的地点へ瞬間移動させます。</VPE_ChunkSkipSTNL.description>
   <!-- EN: Using ability: {0} -->
   <VPE_ChunkSkipSTNL.jobReportString>能力を使用中: {0}</VPE_ChunkSkipSTNL.jobReportString>
   <!-- EN: Chunk Manifestation -->
-  <VPE_ChunkSkipSTNL.verbProperties.label>チャンク・マニフェステーション</VPE_ChunkSkipSTNL.verbProperties.label>
+  <VPE_ChunkSkipSTNL.verbProperties.label>岩塊召喚</VPE_ChunkSkipSTNL.verbProperties.label>
 
   <!-- EN: Deep Skip -->
   <VPE_DeepSkipSTNL.label>ディープ・スキップ</VPE_DeepSkipSTNL.label>
@@ -66,22 +66,22 @@
   <VPE_KidneyStoneSTNL.verbProperties.label>尿路結石</VPE_KidneyStoneSTNL.verbProperties.label>
 
   <!-- EN: Mass Chunk Burst -->
-  <VPE_MassChunkBurstSTNL.label>マス・チャンク・バースト</VPE_MassChunkBurstSTNL.label>
+  <VPE_MassChunkBurstSTNL.label>岩塊大爆破</VPE_MassChunkBurstSTNL.label>
   <!-- EN: Psychically destabilize the minerals present within the target chunks, causing them to detonate.\nDamage scales with psychic sensitivity (100% sensitivity = 10 damage) -->
   <VPE_MassChunkBurstSTNL.description>複数の岩塊内の鉱物を精神的に不安定化させ、一斉に爆発させます。ダメージは精神感受性に比例します（感受性100% = 10ダメージ）。</VPE_MassChunkBurstSTNL.description>
   <!-- EN: Using ability: {0} -->
   <VPE_MassChunkBurstSTNL.jobReportString>能力を使用中: {0}</VPE_MassChunkBurstSTNL.jobReportString>
   <!-- EN: Mass Chunk Burst -->
-  <VPE_MassChunkBurstSTNL.verbProperties.label>マス・チャンク・バースト</VPE_MassChunkBurstSTNL.verbProperties.label>
+  <VPE_MassChunkBurstSTNL.verbProperties.label>岩塊大爆破</VPE_MassChunkBurstSTNL.verbProperties.label>
 
   <!-- EN: Mineralize Soil -->
-  <VPE_MineralizeSTNL.label>ミネラライズ・ソイル</VPE_MineralizeSTNL.label>
+  <VPE_MineralizeSTNL.label>土壌の肥沃化</VPE_MineralizeSTNL.label>
   <!-- EN: Alter the composition of the target soil to possess a larger concentration of minerals required for plant growth, turning it into rich soil. -->
   <VPE_MineralizeSTNL.description>標的の土壌組成を変化させ、植物の成長に必要な鉱物濃度を高め、肥沃な土にします。</VPE_MineralizeSTNL.description>
   <!-- EN: Using ability: {0} -->
   <VPE_MineralizeSTNL.jobReportString>能力を使用中: {0}</VPE_MineralizeSTNL.jobReportString>
   <!-- EN: Mineralize Soil -->
-  <VPE_MineralizeSTNL.verbProperties.label>ミネラライズ・ソイル</VPE_MineralizeSTNL.verbProperties.label>
+  <VPE_MineralizeSTNL.verbProperties.label>土壌の肥沃化</VPE_MineralizeSTNL.verbProperties.label>
 
   <!-- EN: Detect Ore -->
   <VPE_OrePulseSTNL.label>鉱石探知</VPE_OrePulseSTNL.label>
