@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Hydro shield -->
+  <VPE_Hydromancer_HydroshieldSTNL.label>TODO</VPE_Hydromancer_HydroshieldSTNL.label>
+  <!-- EN: This creature is being protected by a shield made out of water, they cannot be set on fire and nearby flames will be put out as they stand near them. -->
+  <VPE_Hydromancer_HydroshieldSTNL.description>TODO</VPE_Hydromancer_HydroshieldSTNL.description>
+  <!-- EN: This creature is being protected by a shield made out of water, they cannot be set on fire and nearby flames will be put out as they stand near them. -->
+  <VPE_Hydromancer_HydroshieldSTNL.descriptionShort>TODO</VPE_Hydromancer_HydroshieldSTNL.descriptionShort>
+  
+  <!-- EN: Laceraqua -->
+  <VPE_Hydromancer_LaceraquaSTNL.label>TODO</VPE_Hydromancer_LaceraquaSTNL.label>
+  <!-- EN: This creature's internal organs are being shredded by circular blades made out of water. -->
+  <VPE_Hydromancer_LaceraquaSTNL.description>TODO</VPE_Hydromancer_LaceraquaSTNL.description>
+  <!-- EN: This creature's internal organs are being shredded by circular blades made out of water. -->
+  <VPE_Hydromancer_LaceraquaSTNL.descriptionShort>TODO</VPE_Hydromancer_LaceraquaSTNL.descriptionShort>
+  
+  <!-- EN: Neural Siphon -->
+  <VPE_Hydromancer_NeuralSiphonSTNL.label>TODO</VPE_Hydromancer_NeuralSiphonSTNL.label>
+  <!-- EN: This person is acting as a living neural heat sink, they will absorb the neural heat of nearby psycasters. -->
+  <VPE_Hydromancer_NeuralSiphonSTNL.description>TODO</VPE_Hydromancer_NeuralSiphonSTNL.description>
+  <!-- EN: This person is acting as a living neural heat sink, they will absorb the neural heat of nearby psycasters. -->
+  <VPE_Hydromancer_NeuralSiphonSTNL.descriptionShort>TODO</VPE_Hydromancer_NeuralSiphonSTNL.descriptionShort>
+  
+  <!-- EN: Salt -->
+  <VPE_Hydromancer_SaltwoundSTNL.label>TODO</VPE_Hydromancer_SaltwoundSTNL.label>
+  <!-- EN: Salt buildup present in the wound, causing a horrible amount of pain in the affected part. -->
+  <VPE_Hydromancer_SaltwoundSTNL.description>TODO</VPE_Hydromancer_SaltwoundSTNL.description>
+  <!-- EN: Salt buildup present in the wound, causing a horrible amount of pain in the affected part. -->
+  <VPE_Hydromancer_SaltwoundSTNL.descriptionShort>TODO</VPE_Hydromancer_SaltwoundSTNL.descriptionShort>
+  
+  <!-- EN: Wellspring -->
+  <VPE_Hydromancer_WellspringSTNL.label>TODO</VPE_Hydromancer_WellspringSTNL.label>
+  <!-- EN: This person is regenerating psyfocus. -->
+  <VPE_Hydromancer_WellspringSTNL.description>TODO</VPE_Hydromancer_WellspringSTNL.description>
+  <!-- EN: This person is regenerating psyfocus. -->
+  <VPE_Hydromancer_WellspringSTNL.descriptionShort>TODO</VPE_Hydromancer_WellspringSTNL.descriptionShort>
+  
+</LanguageData>

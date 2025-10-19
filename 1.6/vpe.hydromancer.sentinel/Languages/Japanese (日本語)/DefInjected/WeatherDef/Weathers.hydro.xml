@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: torrential rain -->
+  <TorrentialRainSTNL.label>豪雨</TorrentialRainSTNL.label>
+  <!-- EN: Torrential rain causes flooding. It also reduces the accuracy of ranged weapons, extinguishes fire, and slows people down. -->
+  <TorrentialRainSTNL.description>TODO</TorrentialRainSTNL.description>
+
+</LanguageData>
