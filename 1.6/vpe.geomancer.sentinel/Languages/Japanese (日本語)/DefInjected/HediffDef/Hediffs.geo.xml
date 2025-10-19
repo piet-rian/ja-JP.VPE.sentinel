@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Geo shield -->
+  <VPE_GeoShieldSTNL.label>TODO</VPE_GeoShieldSTNL.label>
+  <!-- EN: This creature is being protected by a shield made out of floating stones, any incoming damage will be halved and they cannot be staggered. -->
+  <VPE_GeoShieldSTNL.description>TODO</VPE_GeoShieldSTNL.description>
+  <!-- EN: This creature is being protected by a shield made out of floating stones, any incoming damage will be halved and they cannot be staggered. -->
+  <VPE_GeoShieldSTNL.descriptionShort>TODO</VPE_GeoShieldSTNL.descriptionShort>
+  
+  <!-- EN: Kidney Stone -->
+  <VPEKidneyStoneSTNL.label>TODO</VPEKidneyStoneSTNL.label>
+  <!-- EN: A stone present in the pelvic area, causing intense pain to this creature as they attempt to evacuate it by natural means. -->
+  <VPEKidneyStoneSTNL.description>TODO</VPEKidneyStoneSTNL.description>
+  <!-- EN: A stone present in the pelvic area, causing intense pain to this creature as they attempt to evacuate it by natural means. -->
+  <VPEKidneyStoneSTNL.descriptionShort>TODO</VPEKidneyStoneSTNL.descriptionShort>
+  
+</LanguageData>

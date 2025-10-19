@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Soul Shard -->
+  <VPE_SoulShardSTNL.label>TODO</VPE_SoulShardSTNL.label>
+  <!-- EN: The trapped soul of a creature, can be consumed to restore psyfocus.\nA faint glow can be seen inside of this shard. Most likely representing the remnants of the captured creature's consciousness. -->
+  <VPE_SoulShardSTNL.description>TODO</VPE_SoulShardSTNL.description>
+  <!-- EN: Use {0} -->
+  <VPE_SoulShardSTNL.ingestible.ingestCommandString>TODO</VPE_SoulShardSTNL.ingestible.ingestCommandString>
+  <!-- EN: using {0}. -->
+  <VPE_SoulShardSTNL.ingestible.ingestReportString>TODO</VPE_SoulShardSTNL.ingestible.ingestReportString>
+  
+</LanguageData>

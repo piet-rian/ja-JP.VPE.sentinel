@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<!-- ========Input Reject======== -->
+	<!-- EN: No valid chunk found in this cell. -->
+  <NoChunkInThereSTNL>TODO</NoChunkInThereSTNL>
+	<!-- EN: Couldn't find a pelvis inside this. -->
+  <NoPelvisInThereSTNL>TODO</NoPelvisInThereSTNL>
+	<!-- EN: This creature doesn't have any psychic sensitivity. -->
+  <NoPsychicSensiInThereSTNL>TODO</NoPsychicSensiInThereSTNL>
+</LanguageData>
