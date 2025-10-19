@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Aeterna Luminis -->
+  <VPE_AeternaLuminisSTNL.label>TODO</VPE_AeternaLuminisSTNL.label>
+  <!-- EN: Absorb the light of the universe and convert it into pure energy to reach a state of near immortality, the universe will become void of natural light for as long as the caster maintains their hold over it.\n\nSolar Pinholes will fail for the duration of this condition. -->
+  <VPE_AeternaLuminisSTNL.description>TODO</VPE_AeternaLuminisSTNL.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_AeternaLuminisSTNL.jobReportString>TODO</VPE_AeternaLuminisSTNL.jobReportString>
+  <!-- EN: Aeterna Luminis -->
+  <VPE_AeternaLuminisSTNL.verbProperties.label>TODO</VPE_AeternaLuminisSTNL.verbProperties.label>
+  
+  <!-- EN: Apocalypsis Luminis -->
+  <VPE_ApocalypsisLuminisSTNL.label>TODO</VPE_ApocalypsisLuminisSTNL.label>
+  <!-- EN: Absorb the light of the world and unleash it in the form of a devastating cataclysm, the world will become void of natural light for a day following the use of this ability. Apocalypsis Luminis will be unavailable during this time. -->
+  <VPE_ApocalypsisLuminisSTNL.description>TODO</VPE_ApocalypsisLuminisSTNL.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_ApocalypsisLuminisSTNL.jobReportString>TODO</VPE_ApocalypsisLuminisSTNL.jobReportString>
+  <!-- EN: Apocalypsis Luminis -->
+  <VPE_ApocalypsisLuminisSTNL.verbProperties.label>TODO</VPE_ApocalypsisLuminisSTNL.verbProperties.label>
+  
+  <!-- EN: Blinding Flash -->
+  <VPE_BlindingFlashSTNL.label>TODO</VPE_BlindingFlashSTNL.label>
+  <!-- EN: Generate a bright explosion of light that will temporarily blind and disorient the targets, stunning them for a few seconds as their vision returns to normal. \n\nDuration of the stun scales with psychic sensitivity. -->
+  <VPE_BlindingFlashSTNL.description>TODO</VPE_BlindingFlashSTNL.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_BlindingFlashSTNL.jobReportString>TODO</VPE_BlindingFlashSTNL.jobReportString>
+  <!-- EN: Blinding Flash -->
+  <VPE_BlindingFlashSTNL.verbProperties.label>TODO</VPE_BlindingFlashSTNL.verbProperties.label>
+  
+  <!-- EN: Enlighten -->
+  <VPE_EnlightenSTNL.label>TODO</VPE_EnlightenSTNL.label>
+  <!-- EN: Psychically grant greater learning capabilities as well as increased consciousness and psychic sensitivity to the target for a day. -->
+  <VPE_EnlightenSTNL.description>TODO</VPE_EnlightenSTNL.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_EnlightenSTNL.jobReportString>TODO</VPE_EnlightenSTNL.jobReportString>
+  <!-- EN: Enlighten -->
+  <VPE_EnlightenSTNL.verbProperties.label>TODO</VPE_EnlightenSTNL.verbProperties.label>
+  
+  <!-- EN: Flash Skip -->
+  <VPE_FlashSkipSTNL.label>TODO</VPE_FlashSkipSTNL.label>
+  <!-- EN: Turn yourself into a beam of light and dash to the target location, any creature caught in the radius will become stunned for a short time. -->
+  <VPE_FlashSkipSTNL.description>TODO</VPE_FlashSkipSTNL.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_FlashSkipSTNL.jobReportString>TODO</VPE_FlashSkipSTNL.jobReportString>
+  <!-- EN: Flash Skip -->
+  <VPE_FlashSkipSTNL.verbProperties.label>TODO</VPE_FlashSkipSTNL.verbProperties.label>
+  
+  <!-- EN: Furari Luminis -->
+  <VPE_FurariLuminisSTNL.label>TODO</VPE_FurariLuminisSTNL.label>
+  <!-- EN: Absorb the light of the world and convert it into pure energy to massively empower yourself for a short time, the world will become void of natural light for a day following the use of this ability. Furari Luminis will be unavailable during this time. -->
+  <VPE_FurariLuminisSTNL.description>TODO</VPE_FurariLuminisSTNL.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_FurariLuminisSTNL.jobReportString>TODO</VPE_FurariLuminisSTNL.jobReportString>
+  <!-- EN: Furari Luminis -->
+  <VPE_FurariLuminisSTNL.verbProperties.label>TODO</VPE_FurariLuminisSTNL.verbProperties.label>
+  
+  <!-- EN: Greater Solar Pinhole -->
+  <VPE_GreaterSolarPinholeSTNL.label>TODO</VPE_GreaterSolarPinholeSTNL.label>
+  <!-- EN: Form a miniature portal directly linked to the nearest star, this pinhole will allow more light to pass through, allowing for plant growth. This portal is large enough to persist and will remain until manually dispersed at the cost of letting out a lot more heat than a standard solar pinhole. -->
+  <VPE_GreaterSolarPinholeSTNL.description>TODO</VPE_GreaterSolarPinholeSTNL.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_GreaterSolarPinholeSTNL.jobReportString>TODO</VPE_GreaterSolarPinholeSTNL.jobReportString>
+  <!-- EN: Greater Solar Pinhole -->
+  <VPE_GreaterSolarPinholeSTNL.verbProperties.label>TODO</VPE_GreaterSolarPinholeSTNL.verbProperties.label>
+  
+  <!-- EN: Radiant Beacon -->
+  <VPE_RadiantBeaconSTNL.label>TODO</VPE_RadiantBeaconSTNL.label>
+  <!-- EN: Release pulses of soothing psychic energy every half second, these pulses will heal nearby allies while prioritizing bleeding wounds. -->
+  <VPE_RadiantBeaconSTNL.description>TODO</VPE_RadiantBeaconSTNL.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_RadiantBeaconSTNL.jobReportString>TODO</VPE_RadiantBeaconSTNL.jobReportString>
+  <!-- EN: Radiant Beacon -->
+  <VPE_RadiantBeaconSTNL.verbProperties.label>TODO</VPE_RadiantBeaconSTNL.verbProperties.label>
+  
+  <!-- EN: Saving Light -->
+  <VPE_SavingLightSTNL.label>TODO</VPE_SavingLightSTNL.label>
+  <!-- EN: Form bandages made out of pure light around the target's wounds to tend them. -->
+  <VPE_SavingLightSTNL.description>TODO</VPE_SavingLightSTNL.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_SavingLightSTNL.jobReportString>TODO</VPE_SavingLightSTNL.jobReportString>
+  <!-- EN: Saving Light -->
+  <VPE_SavingLightSTNL.verbProperties.label>TODO</VPE_SavingLightSTNL.verbProperties.label>
+  
+  <!-- EN: Solar Flare -->
+  <VPE_SolarFlareSTNL.label>TODO</VPE_SolarFlareSTNL.label>
+  <!-- EN: Provoke a solar eruption in a nearby star and redirect the electromagnetic radiation to the local area, disabling electronics for a day. -->
+  <VPE_SolarFlareSTNL.description>TODO</VPE_SolarFlareSTNL.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_SolarFlareSTNL.jobReportString>TODO</VPE_SolarFlareSTNL.jobReportString>
+  <!-- EN: Solar Flare -->
+  <VPE_SolarFlareSTNL.verbProperties.label>TODO</VPE_SolarFlareSTNL.verbProperties.label>
+  
+  <!-- EN: Solar Rift -->
+  <VPE_SolarRiftSTNL.label>TODO</VPE_SolarRiftSTNL.label>
+  <!-- EN: Create a massive rift in the sky that is directly connected to the sun, the rift will allow sunlight to pass through, resulting in global daytime. -->
+  <VPE_SolarRiftSTNL.description>TODO</VPE_SolarRiftSTNL.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_SolarRiftSTNL.jobReportString>TODO</VPE_SolarRiftSTNL.jobReportString>
+  <!-- EN: Solar Rift -->
+  <VPE_SolarRiftSTNL.verbProperties.label>TODO</VPE_SolarRiftSTNL.verbProperties.label>
+  
+  <!-- EN: Sun Beam -->
+  <VPE_SunBeamSTNL.label>TODO</VPE_SunBeamSTNL.label>
+  <!-- EN: Form a controlled massive solar eruption at the target location to scorch the area. -->
+  <VPE_SunBeamSTNL.description>TODO</VPE_SunBeamSTNL.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_SunBeamSTNL.jobReportString>TODO</VPE_SunBeamSTNL.jobReportString>
+  <!-- EN: Sun Beam -->
+  <VPE_SunBeamSTNL.verbProperties.label>TODO</VPE_SunBeamSTNL.verbProperties.label>
+  
+  <!-- EN: Ultima Luminis -->
+  <VPE_UltimaLuminisSTNL.label>TODO</VPE_UltimaLuminisSTNL.label>
+  <!-- EN: Absorb the light of the universe and annihilate the target area with a super-massive cataclysm of pure light capable of destroying even heat resisting creatures, the universe will become void of natural light for a quadrum following the use of this ability. Ultima Luminis will be unavailable during this time.\n\nSolar Pinholes will fail for the duration of this condition. -->
+  <VPE_UltimaLuminisSTNL.description>TODO</VPE_UltimaLuminisSTNL.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_UltimaLuminisSTNL.jobReportString>TODO</VPE_UltimaLuminisSTNL.jobReportString>
+  <!-- EN: Ultima Luminis -->
+  <VPE_UltimaLuminisSTNL.verbProperties.label>TODO</VPE_UltimaLuminisSTNL.verbProperties.label>
+  
+</LanguageData>

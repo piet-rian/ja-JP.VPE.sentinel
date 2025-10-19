@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Enlightenment -->
+  <VPE_EnlightenementSTNL.label>TODO</VPE_EnlightenementSTNL.label>
+  <!-- EN: This creature is being psychically enlightened by a Luminis psycaster, they will gain faster overall knowledge and psychic influence over others. -->
+  <VPE_EnlightenementSTNL.description>TODO</VPE_EnlightenementSTNL.description>
+  
+  <!-- EN: Eternal Light -->
+  <VPE_EternalLightSTNL.label>TODO</VPE_EternalLightSTNL.label>
+  <!-- EN: This person has stolen light from the universe and is converting it into pure energy to reach a temporary state of near immortality, greatly enhancing their capabilities. -->
+  <VPE_EternalLightSTNL.description>TODO</VPE_EternalLightSTNL.description>
+  
+  <!-- EN: Light Of Extinction -->
+  <VPE_LightOfTheWorldSTNL.label>TODO</VPE_LightOfTheWorldSTNL.label>
+  <!-- EN: This person has stolen light from the world and is converting it into pure energy to reach a temporary state of unprecedented power, greatly enhancing their capabilities for a short duration. -->
+  <VPE_LightOfTheWorldSTNL.description>TODO</VPE_LightOfTheWorldSTNL.description>
+  
+  <!-- EN: Radiant Beacon -->
+  <VPE_RadiantBeaconSTNL.label>TODO</VPE_RadiantBeaconSTNL.label>
+  <!-- EN: This person is emitting soothing pulses of light that will heal nearby allies. -->
+  <VPE_RadiantBeaconSTNL.description>TODO</VPE_RadiantBeaconSTNL.description>
+  
+</LanguageData>

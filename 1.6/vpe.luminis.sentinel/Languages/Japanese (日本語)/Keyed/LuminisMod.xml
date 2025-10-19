@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	<!-- Solar Rift -->
+	<!-- EN: The solar rift has repositioned itself in front of the sun-blocking astral body, effectively ending the eclipse. -->
+  <SolarRiftLightRestoredSTNL>TODO</SolarRiftLightRestoredSTNL>
+	<!-- Apocalypsis Luminis -->
+	<!-- EN: Cannot use this ability, there is not enough light in the world to absorb. -->
+  <ApocalypsisLuminisDeadWorldSTNL>TODO</ApocalypsisLuminisDeadWorldSTNL>
+	<!-- Furari Luminis -->
+	<!-- EN: A Luminis psycaster tried to absorb light, but there wasn't enough to consume. -->
+  <FurariLuminisDeadWorldSTNL>TODO</FurariLuminisDeadWorldSTNL>
+	
+	<!-- ====Condition Stuff==== -->
+    <!-- EN: The stars are currently too weak to sustain solar pinholes. -->
+  <LastLightSolarPinholeClosedSTNL>TODO</LastLightSolarPinholeClosedSTNL>
+	
+	<!-- EN: Restore the light of the universe -->
+  <RemoveEternalLightSTNL>TODO</RemoveEternalLightSTNL>
+	<!-- EN: Stop converting light into energy. -->
+  <RemoveEternalLightDescSTNL>TODO</RemoveEternalLightDescSTNL>
+	
+	<!-- ====Mod Settings==== -->
+	
+	<!-- EN: Apocalypsis/Furari/Ultima/Aeterna Luminis -->
+  <ApocalypsisLuminisSTNL>TODO</ApocalypsisLuminisSTNL>
+	<!-- ====Goodwill Stuff==== -->
+	<!-- EN: Should They Affect Goodwill? -->
+  <ApocalypsisFurariGoodwillCheckSTNL>TODO</ApocalypsisFurariGoodwillCheckSTNL>
+    <!-- EN: If enabled, the abilities mentioned above will affect your relations with other faction by the amount below this option. -->
+  <ApocalypsisFurariGoodwillDescSTNL>TODO</ApocalypsisFurariGoodwillDescSTNL>
+	<!-- ====Darkness Behavior==== -->
+	<!-- EN: Should They Trigger Unnatural Darkness Instead? -->
+  <ApocalypsisFurariAnomalyDarknessCheckSTNL>TODO</ApocalypsisFurariAnomalyDarknessCheckSTNL>
+    <!-- EN: If enabled, the mentioned abilities will cause the Unnatural Darkness event instead of their own night condition.\n\nDisclaimer: Vanilla Unnatural Darkness only harms player controlled pawns. -->
+  <ApocalypsisFurariAnomalyDarknessDescSTNL>TODO</ApocalypsisFurariAnomalyDarknessDescSTNL>
+  <!-- Slider Label -->
+  <!-- EN: Goodwill change per use: {0} -->
+  <ApocalypsisLuminisGoodwillEffectSTNL>TODO</ApocalypsisLuminisGoodwillEffectSTNL>
+</LanguageData>

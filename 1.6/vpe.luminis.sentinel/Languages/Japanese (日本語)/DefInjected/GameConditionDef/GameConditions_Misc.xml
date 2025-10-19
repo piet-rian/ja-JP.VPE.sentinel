@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Aeterna Noctis -->
+  <VPE_EternalNightSTNL.label>TODO</VPE_EternalNightSTNL.label>
+  <!-- EN: The light of the universe has been depleted, stars are dim and weak, solar pinholes will fail for the duration of this condition. -->
+  <VPE_EternalNightSTNL.description>TODO</VPE_EternalNightSTNL.description>
+  
+  <!-- EN: Noctis Apocalypsis -->
+  <VPE_NoctisApocalypsisSTNL.label>TODO</VPE_NoctisApocalypsisSTNL.label>
+  <!-- EN: The world's light has been consumed by a Luminis psycaster, light will eventually return after some time.\nSolar Rift will not work as long as this condition is active. -->
+  <VPE_NoctisApocalypsisSTNL.description>TODO</VPE_NoctisApocalypsisSTNL.description>
+  
+  <!-- EN: Solar Rift -->
+  <VPE_SolarRiftSTNL.label>TODO</VPE_SolarRiftSTNL.label>
+  <!-- EN: A rift connected to the sun is in space, it acts as a second sun. -->
+  <VPE_SolarRiftSTNL.description>TODO</VPE_SolarRiftSTNL.description>
+  
+</LanguageData>
