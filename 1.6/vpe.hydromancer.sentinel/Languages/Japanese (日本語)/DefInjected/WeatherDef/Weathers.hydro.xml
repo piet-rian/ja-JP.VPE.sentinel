@@ -4,6 +4,6 @@
   <!-- EN: torrential rain -->
   <TorrentialRainSTNL.label>集中豪雨</TorrentialRainSTNL.label>
   <!-- EN: Torrential rain causes flooding. It also reduces the accuracy of ranged weapons, extinguishes fire, and slows people down. -->
-  <TorrentialRainSTNL.description>TODO</TorrentialRainSTNL.description>
+  <TorrentialRainSTNL.description>集中豪雨は洪水を引き起こします。また、遠距離武器の命中精度を低下させ、炎を消し、人々の移動速度を低下させます。</TorrentialRainSTNL.description>
 
 </LanguageData>

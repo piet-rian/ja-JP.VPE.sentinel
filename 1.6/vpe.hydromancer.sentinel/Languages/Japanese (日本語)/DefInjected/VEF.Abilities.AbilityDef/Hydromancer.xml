@@ -4,100 +4,100 @@
   <!-- EN: Clean -->
   <VPE_CleanSTNL.label>クリーン</VPE_CleanSTNL.label>
   <!-- EN: Clean the target piece of apparel using a small amount of water from a distant ocean, will also clean filth in the area and put out fires. -->
-  <VPE_CleanSTNL.description>TODO</VPE_CleanSTNL.description>
+  <VPE_CleanSTNL.description>遠方の海の少量の水を使って対象の衣服を洗浄します。周囲の汚れを除去し、炎を消します。</VPE_CleanSTNL.description>
   <!-- EN: Using ability: {0} -->
-  <VPE_CleanSTNL.jobReportString>TODO</VPE_CleanSTNL.jobReportString>
+  <VPE_CleanSTNL.jobReportString>能力を使用中: {0}</VPE_CleanSTNL.jobReportString>
   <!-- EN: Clean -->
-  <VPE_CleanSTNL.verbProperties.label>TODO</VPE_CleanSTNL.verbProperties.label>
+  <VPE_CleanSTNL.verbProperties.label>洗浄</VPE_CleanSTNL.verbProperties.label>
 
   <!-- EN: Hydrend -->
   <VPE_DestroyGearSTNL.label>ハイドレンド</VPE_DestroyGearSTNL.label>
   <!-- EN: Attack the target's equipment with a high pressure burst of water, damaging their worn apparel based on the psychic sensitivity of the caster. -->
-  <VPE_DestroyGearSTNL.description>TODO</VPE_DestroyGearSTNL.description>
+  <VPE_DestroyGearSTNL.description>高圧の水流で対象の装備を攻撃し、キャスターの精神感受性に応じて着用中の衣服を損傷させます。</VPE_DestroyGearSTNL.description>
   <!-- EN: Using ability: {0} -->
-  <VPE_DestroyGearSTNL.jobReportString>TODO</VPE_DestroyGearSTNL.jobReportString>
+  <VPE_DestroyGearSTNL.jobReportString>能力を使用中: {0}</VPE_DestroyGearSTNL.jobReportString>
   <!-- EN: Hydrend -->
-  <VPE_DestroyGearSTNL.verbProperties.label>TODO</VPE_DestroyGearSTNL.verbProperties.label>
+  <VPE_DestroyGearSTNL.verbProperties.label>破壊</VPE_DestroyGearSTNL.verbProperties.label>
 
   <!-- EN: Hydro Shield -->
   <VPE_HydromancerHydroShieldSTNL.label>ハイドロ・シールド</VPE_HydromancerHydroShieldSTNL.label>
   <!-- EN: Envelop the target with a shield made out of water that will prevent the target from catching fire for the duration of this ability.\n\nWill put out fire in a 2.5 cells radius. -->
-  <VPE_HydromancerHydroShieldSTNL.description>TODO</VPE_HydromancerHydroShieldSTNL.description>
+  <VPE_HydromancerHydroShieldSTNL.description>対象を水の盾で包み、この効果中は着火を防ぎます。\n\n半径2.5セル内の炎を消します。</VPE_HydromancerHydroShieldSTNL.description>
   <!-- EN: Using ability: {0} -->
-  <VPE_HydromancerHydroShieldSTNL.jobReportString>TODO</VPE_HydromancerHydroShieldSTNL.jobReportString>
+  <VPE_HydromancerHydroShieldSTNL.jobReportString>能力を使用中: {0}</VPE_HydromancerHydroShieldSTNL.jobReportString>
   <!-- EN: Hydro Shield -->
-  <VPE_HydromancerHydroShieldSTNL.verbProperties.label>TODO</VPE_HydromancerHydroShieldSTNL.verbProperties.label>
+  <VPE_HydromancerHydroShieldSTNL.verbProperties.label>水の盾</VPE_HydromancerHydroShieldSTNL.verbProperties.label>
 
   <!-- EN: Laceraqua -->
   <VPE_HydromancerLaceraquaSTNL.label>水の槍</VPE_HydromancerLaceraquaSTNL.label>
   <!-- EN: Convert the water present inside of the targets into razor-sharp blades, these blades will cause internal bleeding within the affected creatures over time. -->
-  <VPE_HydromancerLaceraquaSTNL.description>TODO</VPE_HydromancerLaceraquaSTNL.description>
+  <VPE_HydromancerLaceraquaSTNL.description>対象内部の水分を鋭い刃に変換し、時間経過で内出血を引き起こします。</VPE_HydromancerLaceraquaSTNL.description>
   <!-- EN: Using ability: {0} -->
-  <VPE_HydromancerLaceraquaSTNL.jobReportString>TODO</VPE_HydromancerLaceraquaSTNL.jobReportString>
+  <VPE_HydromancerLaceraquaSTNL.jobReportString>能力を使用中: {0}</VPE_HydromancerLaceraquaSTNL.jobReportString>
   <!-- EN: Laceraqua -->
-  <VPE_HydromancerLaceraquaSTNL.verbProperties.label>TODO</VPE_HydromancerLaceraquaSTNL.verbProperties.label>
+  <VPE_HydromancerLaceraquaSTNL.verbProperties.label>水の刃</VPE_HydromancerLaceraquaSTNL.verbProperties.label>
 
   <!-- EN: Neural Siphon -->
   <VPE_HydromancerNeuralSiphonSTNL.label>ニューラル・サイフォン</VPE_HydromancerNeuralSiphonSTNL.label>
   <!-- EN: Become a living heat sink for nearby psycasters, taking their neural heat for yourself.\n\nThis ability will cancel itself early if the caster gets knocked down. -->
-  <VPE_HydromancerNeuralSiphonSTNL.description>TODO</VPE_HydromancerNeuralSiphonSTNL.description>
+  <VPE_HydromancerNeuralSiphonSTNL.description>近くのサイキャスターの神経熱を自分に引き寄せ、生きた熱吸収体となります。\n\nキャスターが気絶するとこの能力は早期に終了します。</VPE_HydromancerNeuralSiphonSTNL.description>
   <!-- EN: Using ability: {0} -->
-  <VPE_HydromancerNeuralSiphonSTNL.jobReportString>TODO</VPE_HydromancerNeuralSiphonSTNL.jobReportString>
+  <VPE_HydromancerNeuralSiphonSTNL.jobReportString>能力を使用中: {0}</VPE_HydromancerNeuralSiphonSTNL.jobReportString>
   <!-- EN: Neural Siphon -->
-  <VPE_HydromancerNeuralSiphonSTNL.verbProperties.label>TODO</VPE_HydromancerNeuralSiphonSTNL.verbProperties.label>
+  <VPE_HydromancerNeuralSiphonSTNL.verbProperties.label>神経吸引</VPE_HydromancerNeuralSiphonSTNL.verbProperties.label>
 
   <!-- EN: Whirlpool -->
   <VPE_HydromancerVortexSTNL.label>渦</VPE_HydromancerVortexSTNL.label>
   <!-- EN: Replicate a whirlpool that will pull enemies towards the target location. -->
-  <VPE_HydromancerVortexSTNL.description>TODO</VPE_HydromancerVortexSTNL.description>
+  <VPE_HydromancerVortexSTNL.description>渦を再現して敵を目標地点へ引き寄せます。</VPE_HydromancerVortexSTNL.description>
   <!-- EN: Using ability: {0} -->
-  <VPE_HydromancerVortexSTNL.jobReportString>TODO</VPE_HydromancerVortexSTNL.jobReportString>
+  <VPE_HydromancerVortexSTNL.jobReportString>能力を使用中: {0}</VPE_HydromancerVortexSTNL.jobReportString>
   <!-- EN: Whirlpool -->
-  <VPE_HydromancerVortexSTNL.verbProperties.label>TODO</VPE_HydromancerVortexSTNL.verbProperties.label>
+  <VPE_HydromancerVortexSTNL.verbProperties.label>渦</VPE_HydromancerVortexSTNL.verbProperties.label>
 
   <!-- EN: Wellspring -->
-  <VPE_HydromancerWellspringSTNL.label>水源</VPE_HydromancerWellspringSTNL.label>
+  <VPE_HydromancerWellspringSTNL.label>湧泉</VPE_HydromancerWellspringSTNL.label>
   <!-- EN: Emanate a psychic pulse that will allow nearby psycasters to regenerate psyfocus over time. -->
-  <VPE_HydromancerWellspringSTNL.description>TODO</VPE_HydromancerWellspringSTNL.description>
+  <VPE_HydromancerWellspringSTNL.description>精神的なパルスを放ち、近くのサイキャスターが時間経過でサイフォーカスを再生できるようにします。</VPE_HydromancerWellspringSTNL.description>
   <!-- EN: Using ability: {0} -->
-  <VPE_HydromancerWellspringSTNL.jobReportString>TODO</VPE_HydromancerWellspringSTNL.jobReportString>
+  <VPE_HydromancerWellspringSTNL.jobReportString>能力を使用中: {0}</VPE_HydromancerWellspringSTNL.jobReportString>
   <!-- EN: Wellspring -->
-  <VPE_HydromancerWellspringSTNL.verbProperties.label>TODO</VPE_HydromancerWellspringSTNL.verbProperties.label>
+  <VPE_HydromancerWellspringSTNL.verbProperties.label>湧泉</VPE_HydromancerWellspringSTNL.verbProperties.label>
 
   <!-- EN: Purifying Tide -->
   <VPE_PurifyingTideSTNL.label>浄化の潮</VPE_PurifyingTideSTNL.label>
   <!-- EN: Purify the target of diseases and infections by purging their body of foreign bacteria. -->
-  <VPE_PurifyingTideSTNL.description>TODO</VPE_PurifyingTideSTNL.description>
+  <VPE_PurifyingTideSTNL.description>対象の体内の異物を洗い流し、病気や感染症を浄化します。</VPE_PurifyingTideSTNL.description>
   <!-- EN: Using ability: {0} -->
-  <VPE_PurifyingTideSTNL.jobReportString>TODO</VPE_PurifyingTideSTNL.jobReportString>
+  <VPE_PurifyingTideSTNL.jobReportString>能力を使用中: {0}</VPE_PurifyingTideSTNL.jobReportString>
   <!-- EN: Purifying Tide -->
-  <VPE_PurifyingTideSTNL.verbProperties.label>TODO</VPE_PurifyingTideSTNL.verbProperties.label>
+  <VPE_PurifyingTideSTNL.verbProperties.label>浄化の潮</VPE_PurifyingTideSTNL.verbProperties.label>
 
   <!-- EN: Salt Wounds -->
   <VPE_SaltWoundsSTNL.label>傷口に塩</VPE_SaltWoundsSTNL.label>
   <!-- EN: Skip ocean water directly onto the target's bleeding wounds, causing a horrible amount of pain in the affected part. -->
-  <VPE_SaltWoundsSTNL.description>TODO</VPE_SaltWoundsSTNL.description>
+  <VPE_SaltWoundsSTNL.description>海水を直接患部に浴びせ、患部に激しい痛みを引き起こします。</VPE_SaltWoundsSTNL.description>
   <!-- EN: Using ability: {0} -->
-  <VPE_SaltWoundsSTNL.jobReportString>TODO</VPE_SaltWoundsSTNL.jobReportString>
+  <VPE_SaltWoundsSTNL.jobReportString>能力を使用中: {0}</VPE_SaltWoundsSTNL.jobReportString>
   <!-- EN: Salt Wounds -->
-  <VPE_SaltWoundsSTNL.verbProperties.label>TODO</VPE_SaltWoundsSTNL.verbProperties.label>
+  <VPE_SaltWoundsSTNL.verbProperties.label>傷口に塩</VPE_SaltWoundsSTNL.verbProperties.label>
 
   <!-- EN: Scalding Strike -->
   <VPE_ScaldingBurstSTNL.label>熱湯</VPE_ScaldingBurstSTNL.label>
   <!-- EN: Inflict a burn on the target by skipping boiling water directly onto them. -->
-  <VPE_ScaldingBurstSTNL.description>TODO</VPE_ScaldingBurstSTNL.description>
+  <VPE_ScaldingBurstSTNL.description>沸騰した水を直接浴びせて対象に火傷を負わせます。</VPE_ScaldingBurstSTNL.description>
   <!-- EN: Using ability: {0} -->
-  <VPE_ScaldingBurstSTNL.jobReportString>TODO</VPE_ScaldingBurstSTNL.jobReportString>
+  <VPE_ScaldingBurstSTNL.jobReportString>能力を使用中: {0}</VPE_ScaldingBurstSTNL.jobReportString>
   <!-- EN: Scalding Strike -->
-  <VPE_ScaldingBurstSTNL.verbProperties.label>TODO</VPE_ScaldingBurstSTNL.verbProperties.label>
+  <VPE_ScaldingBurstSTNL.verbProperties.label>熱湯</VPE_ScaldingBurstSTNL.verbProperties.label>
 
   <!-- EN: Torrential Rain -->
   <VPE_TorrentialRainSTNL.label>集中豪雨</VPE_TorrentialRainSTNL.label>
   <!-- EN: Warp a distant storm towards your location, the rain will cause floods and put out fires while also reducing the movement speed of creatures that aren't under a roof. -->
-  <VPE_TorrentialRainSTNL.description>TODO</VPE_TorrentialRainSTNL.description>
+  <VPE_TorrentialRainSTNL.description>遠くの嵐を引き寄せ、洪水を引き起こして炎を消し、屋根のない場所の生物の移動速度を低下させます。</VPE_TorrentialRainSTNL.description>
   <!-- EN: Using ability: {0} -->
-  <VPE_TorrentialRainSTNL.jobReportString>TODO</VPE_TorrentialRainSTNL.jobReportString>
+  <VPE_TorrentialRainSTNL.jobReportString>能力を使用中: {0}</VPE_TorrentialRainSTNL.jobReportString>
   <!-- EN: Torrential Rain -->
-  <VPE_TorrentialRainSTNL.verbProperties.label>TODO</VPE_TorrentialRainSTNL.verbProperties.label>
+  <VPE_TorrentialRainSTNL.verbProperties.label>集中豪雨</VPE_TorrentialRainSTNL.verbProperties.label>
 
 </LanguageData>

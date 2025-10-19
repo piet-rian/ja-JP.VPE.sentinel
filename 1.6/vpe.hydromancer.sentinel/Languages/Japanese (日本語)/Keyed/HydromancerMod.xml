@@ -3,32 +3,32 @@
 	<!-- =======Mod Settings======= -->
 	<!-- Pull -->
 	<!-- EN: Scalding Strike -->
-  <ScaldingStrikeSTNL>TODO</ScaldingStrikeSTNL>
+	<ScaldingStrikeSTNL>熱湯攻撃</ScaldingStrikeSTNL>
 	<!-- EN: Burn Damage: {0} -->
-  <ScaldingDamageSTNL>TODO</ScaldingDamageSTNL>
+	<ScaldingDamageSTNL>火傷ダメージ: {0}</ScaldingDamageSTNL>
 	<!-- Laceraqua -->
 	<!-- EN: Laceraqua -->
-  <LaceraquaSTNL>TODO</LaceraquaSTNL>
+	<LaceraquaSTNL>水の刃</LaceraquaSTNL>
 	<!-- EN: Cut Damage: {0} -->
-  <LaceraquadamageSTNL>TODO</LaceraquadamageSTNL>
+	<LaceraquadamageSTNL>切り傷ダメージ: {0}</LaceraquadamageSTNL>
 	<!-- Vortex -->
 	<!-- EN: Whirlpool -->
-  <VortexSTNL>TODO</VortexSTNL>
+	<VortexSTNL>渦</VortexSTNL>
 	<!-- EN: Bruise Damage: {0} -->
-  <VortexDamageSTNL>TODO</VortexDamageSTNL>
+	<VortexDamageSTNL>打撲ダメージ: {0}</VortexDamageSTNL>
 	<!-- ========Utility======== -->
 	<!-- Wellspring -->
 	<!-- EN: Wellspring -->
-  <WellspringSTNL>TODO</WellspringSTNL>
+	<WellspringSTNL>湧泉</WellspringSTNL>
 	<!-- EN: Wellspring Psyfocus Regen Per Sec: {0} -->
-  <HydromancerWellspringRegenSTNL>TODO</HydromancerWellspringRegenSTNL>
+	<HydromancerWellspringRegenSTNL>湧泉のサイフォーカス回復(毎秒): {0}</HydromancerWellspringRegenSTNL>
 	<!-- Hydrend -->
 	<!-- EN: Hydrend -->
-  <HydrendSTNL>TODO</HydrendSTNL>
+	<HydrendSTNL>ハイドレンド</HydrendSTNL>
 	<!-- EN: Hydrend Always One Shots Apparel? -->
-  <HydrendOneShotGearSTNL>TODO</HydrendOneShotGearSTNL>
+	<HydrendOneShotGearSTNL>ハイドレンドが常に一撃で装備を破壊する?</HydrendOneShotGearSTNL>
 	<!-- EN: Hydrend won't scale with psychic sensitivity and will always destroy apparel in one cast if this is checked. -->
-  <HydrendOneShotGearDescSTNL>TODO</HydrendOneShotGearDescSTNL>
+	<HydrendOneShotGearDescSTNL>これにチェックすると、ハイドレンドは精神感受性に応じて強さを変えず、常に一度の詠唱で装備を破壊します。</HydrendOneShotGearDescSTNL>
 	<!-- EN: Psychic Sensitivity Required To One Shot Apparel: {0} -->
-  <HydrendTresholdToBreakSTNL>TODO</HydrendTresholdToBreakSTNL>
+	<HydrendTresholdToBreakSTNL>装備を一撃で破壊するために必要な精神感受性: {0}</HydrendTresholdToBreakSTNL>
 </LanguageData>
