@@ -2,13 +2,13 @@
 <LanguageData>
 
   <!-- EN: Conceal Skip -->
-  <VPE_ConcealSkipSTNL.label>隠密跳躍</VPE_ConcealSkipSTNL.label>
+  <VPE_ConcealSkipSTNL.label>コンシール・スキップ</VPE_ConcealSkipSTNL.label>
   <!-- EN: Turn yourself into a shadow and emerge at the target location, nearby allies will become shrouded in darkness as the caster reforms, rendering them invisible. -->
   <VPE_ConcealSkipSTNL.description>自身を影と化して目標地点に出現します。術者が再形成される際に近くの味方は暗闇に包まれ、不可視状態になります。</VPE_ConcealSkipSTNL.description>
   <!-- EN: Using ability: {0} -->
   <VPE_ConcealSkipSTNL.jobReportString>能力使用: {0}</VPE_ConcealSkipSTNL.jobReportString>
   <!-- EN: Conceal Skip -->
-  <VPE_ConcealSkipSTNL.verbProperties.label>隠密跳躍</VPE_ConcealSkipSTNL.verbProperties.label>
+  <VPE_ConcealSkipSTNL.verbProperties.label>コンシール・スキップ</VPE_ConcealSkipSTNL.verbProperties.label>
 
   <!-- EN: Hunting Mark -->
   <VPE_HuntingMarkSTNL.label>ハンティング・マーク</VPE_HuntingMarkSTNL.label>
