@@ -15,19 +15,7 @@ VPsyEの拡張Mod群である [Too many VPE Paths](https://steamcommunity.com/sh
 
 ## 今後翻訳するかも系
 
-* VPE - Bugmancer
-* VPE - Biohazard | Biosoother
-* VPE - Mechanitor
 * VPE - Anima
-
-## 多分翻訳しない対象
-
-* VPE - Deadlife
-* VPE - Fleshshaper
-* VPE - Horaxian
-* VPE - Voidweaver
-* VPE - PhaseShift
-* VPE - Blader
 
 ## 翻訳対象外
 
@@ -39,6 +27,16 @@ VPsyEの拡張Mod群である [Too many VPE Paths](https://steamcommunity.com/sh
 * VPE - Oripathy
 * VPE - Originium
   * 元ネタ(アークナイツ)の世界観・固有名詞を加味した翻訳ができないのが自明であるため
+* VPE - Bugmancer
+* VPE - Biohazard | Biosoother
+* VPE - Mechanitor
+* VPE - Deadlife
+* VPE - Fleshshaper
+* VPE - Horaxian
+* VPE - Voidweaver
+* VPE - PhaseShift
+* VPE - Blader
+  * これらを導入した環境で自身が遊ばないと思われるため
 
 ## 注意点
 
