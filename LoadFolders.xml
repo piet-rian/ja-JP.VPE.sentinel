@@ -4,6 +4,7 @@
   <v1.6>
     <!-- 翻訳対象 -->
     <li IfModActive="vpe.luminis.sentinel">1.6/vpe.luminis.sentinel</li>
+    <li IfModActive="vpe.umbra.sentinel">1.6/vpe.umbra.sentinel</li>
     <li IfModActive="vpe.geomancer.sentinel">1.6/vpe.geomancer.sentinel</li>
     <li IfModActive="vpe.hydromancer.sentinel">1.6/vpe.hydromancer.sentinel</li>
     <li IfModActive="vpe.aeromancer.sentinel">1.6/vpe.aeromancer.sentinel</li>

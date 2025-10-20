@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	<!-- =======Mod Settings======= -->
+	
+	<!-- Originium Spike -->
+	<!-- EN: Originium Stab -->
+  <OriginiumStabSTNL>TODO</OriginiumStabSTNL>
+	<!-- EN: Originium Spike Damage: {0} -->
+  <OriginiumStabBasicSTNL>TODO</OriginiumStabBasicSTNL>
+	<!-- EN: Originium Spike Armor Penetration: {0} -->
+  <OriginiumStabBasicPenSTNL>TODO</OriginiumStabBasicPenSTNL>
+
+    <!-- Cataclysm -->
+	<!-- EN: Cataclysm -->
+  <OriginiumCataclysmSTNL>TODO</OriginiumCataclysmSTNL>
+	<!-- EN: Cataclysm Damage: {0} -->
+  <OriginiumStabCataclysmSTNL>TODO</OriginiumStabCataclysmSTNL>
+	<!-- EN: Cataclysm Armor Penetration: {0} -->
+  <OriginiumStabCataclysmPenSTNL>TODO</OriginiumStabCataclysmPenSTNL>
+	
+	<!-- Pollution -->
+	<!-- EN: Originium Pollution -->
+  <OriginiumPollutionSTNL>TODO</OriginiumPollutionSTNL>
+	<!-- EN: Originium Pollution Damage: {0} -->
+  <OriginiumPollutionDamageSTNL>TODO</OriginiumPollutionDamageSTNL>
+	<!-- EN: Damage Interval: {0} ticks (60 = 1 second) -->
+  <OriginiumPollutionDamageIntervalSTNL>TODO</OriginiumPollutionDamageIntervalSTNL>
+	<!-- EN: Toxic Environment Resistance Required To Not Take Damage: {0}% -->
+  <OriginiumPollutionThresholdSTNL>TODO</OriginiumPollutionThresholdSTNL>
+	
+	<!-- Healing Arts -->
+	<!-- EN: Arts: Restoration -->
+  <ArtsRestorationSTNL>TODO</ArtsRestorationSTNL>
+	<!-- EN: Level: {0} -->
+  <RegenSeveritySTNL>TODO</RegenSeveritySTNL>
+	<!-- EN: Restoration Interval: {0} ticks (60 Ticks = 1 second) -->
+  <HealingArtsTickIntervalSTNL>TODO</HealingArtsTickIntervalSTNL>
+	<!-- EN: Restoration Heal Per Level: {0} (Restoration Level = Caster's Medical Skill Rounded Down) -->
+  <HealingArtsScalingSTNL>TODO</HealingArtsScalingSTNL>
+	<!-- EN: Restoration Medical XP Per Cast: {0} XP -->
+  <HealingArtsXPpercastSTNL>TODO</HealingArtsXPpercastSTNL>
+	
+	<!-- Ward Arts -->
+	<!-- EN: Arts: Ward -->
+  <ArtsWardSTNL>TODO</ArtsWardSTNL>
+	<!-- EN: Psychic Sensitivity Required Per Deflection (Arts: Ward): {0} -->
+  <ConversionRateSeverityWardSTNL>TODO</ConversionRateSeverityWardSTNL>
+	<!-- EN: Deflection: {0} -->
+  <DeflectionsLeftSTNL>TODO</DeflectionsLeftSTNL>
+	
+	<!-- Surge Arts And Effect -->
+	<!-- EN: Arts: Surge -->
+  <ArtsSurgeSTNL>TODO</ArtsSurgeSTNL>
+	<!-- EN: Surge Level {0} -->
+  <SurgeSeveritySTNL>TODO</SurgeSeveritySTNL>
+	<!-- EN: {0} Psychic Sensitivity = 1 Surge Level -->
+  <SurgeArtsScalingSensiSTNL>TODO</SurgeArtsScalingSensiSTNL>
+	<!-- EN: Ranged/Melee Attack Speed Boost: {0}% -->
+  <SurgeSeverityBoostSTNL>TODO</SurgeSeverityBoostSTNL>
+	<!-- EN: Ranged/Melee Attack Speed Boost Per Surge Level: {0} -->
+  <SurgeArtsBoostPerSeveritySTNL>TODO</SurgeArtsBoostPerSeveritySTNL>
+	<!-- EN: Originium Buildup Infection % Dealt To Enemies Per Surge Level: {0} -->
+  <OriginiumBuildupScalingSeveritySTNL>TODO</OriginiumBuildupScalingSeveritySTNL>
+	<!-- EN: Damage Dealt On 100% Buildup: {0} -->
+  <BurstingSpikeDamageSTNL>TODO</BurstingSpikeDamageSTNL>
+	<!-- EN: Armor Penetration: {0} -->
+  <BurstingSpikeArmorPenSTNL>TODO</BurstingSpikeArmorPenSTNL>
+	
+	<!-- Assimilation -->
+	<!-- EN: Psychic Sensitivity Bonus: {0}% -->
+  <AssimilationSTNL>TODO</AssimilationSTNL>
+</LanguageData>

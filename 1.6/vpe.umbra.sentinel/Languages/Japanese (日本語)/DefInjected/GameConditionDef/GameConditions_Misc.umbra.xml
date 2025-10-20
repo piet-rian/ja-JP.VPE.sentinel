@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Umbral Veil -->
+  <VPE_UmbralVeilSTNL.label>TODO</VPE_UmbralVeilSTNL.label>
+  <!-- EN: An Umbra path user is blocking the sunlight. -->
+  <VPE_UmbralVeilSTNL.description>TODO</VPE_UmbralVeilSTNL.description>
+  
+  <!-- EN: Umbral Swarm -->
+  <VPE_UmbraPsychicDarknessSTNL.label>TODO</VPE_UmbraPsychicDarknessSTNL.label>
+  <!-- EN: An Umbra path user is blocking the sunlight. Horrors from the night will hunt foes in the darkness. -->
+  <VPE_UmbraPsychicDarknessSTNL.description>TODO</VPE_UmbraPsychicDarknessSTNL.description>
+  
+</LanguageData>

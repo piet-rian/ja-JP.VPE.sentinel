@@ -7,6 +7,7 @@ VPsyEの拡張Mod群である [Too many VPE Paths](https://steamcommunity.com/sh
 ## 翻訳対象
 
 * VPE - Luminis
+* VPE - Umbra
 * VPE - Geomancer
 * VPE - Hydromancer
 * VPE - Aeromancer

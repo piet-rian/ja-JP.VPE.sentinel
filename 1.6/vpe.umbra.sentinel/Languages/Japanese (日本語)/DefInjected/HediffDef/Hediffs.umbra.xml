@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Hunting Mark -->
+  <VPE_HuntingMarkSTNL.label>TODO</VPE_HuntingMarkSTNL.label>
+  <!-- EN: A psychic mark is weakening this creature, stay in the light to dampen its effect. -->
+  <VPE_HuntingMarkSTNL.description>TODO</VPE_HuntingMarkSTNL.description>
+  <!-- EN: Weakened by light -->
+  <VPE_HuntingMarkSTNL.stages.Weakened_by_light.label>TODO</VPE_HuntingMarkSTNL.stages.Weakened_by_light.label>
+  
+  <!-- EN: Shadow Fang -->
+  <VPE_ShadowFangSTNL.label>TODO</VPE_ShadowFangSTNL.label>
+  <!-- EN: This person is being bitten by fangs made of psychic energy, get to the nearest light source or die trying. -->
+  <VPE_ShadowFangSTNL.description>TODO</VPE_ShadowFangSTNL.description>
+  
+  <!-- EN: Curse -->
+  <VPE_UmbralCurseSTNL.label>TODO</VPE_UmbralCurseSTNL.label>
+  <!-- EN: This creature's essence is being sapped by a looming psychic force, their stats are severely lowered. -->
+  <VPE_UmbralCurseSTNL.description>TODO</VPE_UmbralCurseSTNL.description>
+  <!-- EN: Weak -->
+  <VPE_UmbralCurseSTNL.stages.Weak.label>TODO</VPE_UmbralCurseSTNL.stages.Weak.label>
+  <!-- EN: Moderate -->
+  <VPE_UmbralCurseSTNL.stages.Moderate.label>TODO</VPE_UmbralCurseSTNL.stages.Moderate.label>
+  <!-- EN: Drained -->
+  <VPE_UmbralCurseSTNL.stages.Drained.label>TODO</VPE_UmbralCurseSTNL.stages.Drained.label>
+  
+  <!-- EN: Umbral Crest -->
+  <VPE_UmbralFormDaySTNL.label>TODO</VPE_UmbralFormDaySTNL.label>
+  <!-- EN: A shadow taking the form of an Umbra path user, this entity is capable of learning its own set of psychic abilities and will do the same work as its summoner.\n\nThis entity will steadily consume psyfocus to maintain its form, disappearing once it reaches 0%.\n\nStaying in an area with a light level of more than 30% will cause this entity's psyfocus to drop much faster than normal. -->
+  <VPE_UmbralFormDaySTNL.description>TODO</VPE_UmbralFormDaySTNL.description>
+  
+  <!-- EN: Umbral Wings -->
+  <VPE_UmbralFormNightSTNL.label>TODO</VPE_UmbralFormNightSTNL.label>
+  <!-- EN: A shadow taking the form of an Umbra path user, this entity is capable of learning its own set of psychic abilities and will do the same work as its summoner.\n\nThis entity will steadily consume psyfocus to maintain its form, disappearing once it reaches 0%.\n\nStaying in an area with a light level of more than 30% will cause this entity's psyfocus to drop much faster than normal. -->
+  <VPE_UmbralFormNightSTNL.description>TODO</VPE_UmbralFormNightSTNL.description>
+  
+  <!-- EN: Umbral Shroud -->
+  <VPE_UmbralShroudSTNL.label>TODO</VPE_UmbralShroudSTNL.label>
+  <!-- EN: This person is surrounded by a light refracting field of darkness, effectively rendering them invisible. -->
+  <VPE_UmbralShroudSTNL.description>TODO</VPE_UmbralShroudSTNL.description>
+  
+  <!-- EN: darkness exposure -->
+  <VPE_UmbraPsychicDarknessExposureSTNL.label>TODO</VPE_UmbraPsychicDarknessExposureSTNL.label>
+  <!-- EN: This person is in the dark, shadowy creatures will attack them until they return to the light. -->
+  <VPE_UmbraPsychicDarknessExposureSTNL.description>TODO</VPE_UmbraPsychicDarknessExposureSTNL.description>
+  
+  <!-- EN: Umbra -->
+  <VPE_UmbraSTNL.label>TODO</VPE_UmbraSTNL.label>
+  <!-- EN: A shadow taking the form of an Umbra path user, this entity is capable of learning its own set of psychic abilities and will do the same work as its summoner.\n\nThis entity will steadily consume psyfocus to maintain its form, disappearing once it reaches 0%.\n\nStaying in an area with a light level of more than 30% will cause this entity's psyfocus to drop much faster than normal. -->
+  <VPE_UmbraSTNL.description>TODO</VPE_UmbraSTNL.description>
+  
+</LanguageData>
