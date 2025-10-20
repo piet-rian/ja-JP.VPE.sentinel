@@ -1,21 +1,22 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: Exposure: Crush -->
-  <CrushOpportunitySTNL.label>TODO</CrushOpportunitySTNL.label>
+  <CrushOpportunitySTNL.label>露出: クラッシュ</CrushOpportunitySTNL.label>
   <!-- EN: Using Crush on this pawn will cause the Collapse effect, creating an explosion. -->
-  <CrushOpportunitySTNL.description>TODO</CrushOpportunitySTNL.description>
-  
+  <CrushOpportunitySTNL.description>このポーンにクラッシュを使用すると、崩壊効果が発生して爆発を引き起こします。</CrushOpportunitySTNL.description>
+
   <!-- EN: Increased Gravity -->
-  <GravityEnhancedSTNL.label>TODO</GravityEnhancedSTNL.label>
+  <GravityEnhancedSTNL.label>重力増加</GravityEnhancedSTNL.label>
   <!-- EN: This pawn is feeling the effects of an increased gravity pull, pinning them on the ground. -->
-  <GravityEnhancedSTNL.description>TODO</GravityEnhancedSTNL.description>
-  
+  <GravityEnhancedSTNL.description>このポーンは重力の増加の影響を受けており、地面に押し付けられています。</GravityEnhancedSTNL.description>
+
   <!-- EN: Telekinetic Satellites -->
-  <TelekineticSatellitesSTNL.label>TODO</TelekineticSatellitesSTNL.label>
   <!-- EN: Small stones are orbiting this pawn, they will shoot themselves at nearby enemies. -->
-  <TelekineticSatellitesSTNL.description>TODO</TelekineticSatellitesSTNL.description>
+  <TelekineticSatellitesSTNL.label>テレキネシス・サテライト</TelekineticSatellitesSTNL.label>
   <!-- EN: Small stones are orbiting this pawn, they will shoot themselves at nearby enemies. -->
-  <TelekineticSatellitesSTNL.descriptionShort>TODO</TelekineticSatellitesSTNL.descriptionShort>
-  
+  <TelekineticSatellitesSTNL.description>小さな石がこのポーンの周りを周回しており、近くの敵に向かって飛んでいきます。</TelekineticSatellitesSTNL.description>
+  <!-- EN: Small stones are orbiting this pawn, they will shoot themselves at nearby enemies. -->
+  <TelekineticSatellitesSTNL.descriptionShort>小さな石が周回して近くの敵に飛んでいきます。</TelekineticSatellitesSTNL.descriptionShort>
+
 </LanguageData>
