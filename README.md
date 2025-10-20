@@ -13,10 +13,6 @@ VPsyEの拡張Mod群である [Too many VPE Paths](https://steamcommunity.com/sh
 * VPE - Hydromancer
 * VPE - Aeromancer
 
-## 今後翻訳するかも系
-
-* VPE - Anima
-
 ## 翻訳対象外
 
 * VPE - Ragnarok Online
@@ -28,6 +24,7 @@ VPsyEの拡張Mod群である [Too many VPE Paths](https://steamcommunity.com/sh
 * VPE - Originium
   * 元ネタ(アークナイツ)の世界観・固有名詞を加味した翻訳ができないのが自明であるため
 * VPE - Bugmancer
+* VPE - Anima
 * VPE - Biohazard | Biosoother
 * VPE - Mechanitor
 * VPE - Deadlife
@@ -37,6 +34,7 @@ VPsyEの拡張Mod群である [Too many VPE Paths](https://steamcommunity.com/sh
 * VPE - PhaseShift
 * VPE - Blader
   * これらを導入した環境で自身が遊ばないと思われるため
+  * 気になって導入したら翻訳します
 
 ## 注意点
 
