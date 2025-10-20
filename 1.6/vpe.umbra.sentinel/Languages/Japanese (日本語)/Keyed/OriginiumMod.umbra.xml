@@ -1,72 +1,72 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 	<!-- =======Mod Settings======= -->
-	
+
 	<!-- Originium Spike -->
 	<!-- EN: Originium Stab -->
-  <OriginiumStabSTNL>TODO</OriginiumStabSTNL>
+	<OriginiumStabSTNL>オリジニウム突き</OriginiumStabSTNL>
 	<!-- EN: Originium Spike Damage: {0} -->
-  <OriginiumStabBasicSTNL>TODO</OriginiumStabBasicSTNL>
+	<OriginiumStabBasicSTNL>オリジニウム突き ダメージ: {0}</OriginiumStabBasicSTNL>
 	<!-- EN: Originium Spike Armor Penetration: {0} -->
-  <OriginiumStabBasicPenSTNL>TODO</OriginiumStabBasicPenSTNL>
+	<OriginiumStabBasicPenSTNL>オリジニウム突き 貫通力: {0}</OriginiumStabBasicPenSTNL>
 
-    <!-- Cataclysm -->
+	<!-- Cataclysm -->
 	<!-- EN: Cataclysm -->
-  <OriginiumCataclysmSTNL>TODO</OriginiumCataclysmSTNL>
+	<OriginiumCataclysmSTNL>大崩壊</OriginiumCataclysmSTNL>
 	<!-- EN: Cataclysm Damage: {0} -->
-  <OriginiumStabCataclysmSTNL>TODO</OriginiumStabCataclysmSTNL>
+	<OriginiumStabCataclysmSTNL>大崩壊 ダメージ: {0}</OriginiumStabCataclysmSTNL>
 	<!-- EN: Cataclysm Armor Penetration: {0} -->
-  <OriginiumStabCataclysmPenSTNL>TODO</OriginiumStabCataclysmPenSTNL>
-	
+	<OriginiumStabCataclysmPenSTNL>大崩壊 貫通力: {0}</OriginiumStabCataclysmPenSTNL>
+
 	<!-- Pollution -->
 	<!-- EN: Originium Pollution -->
-  <OriginiumPollutionSTNL>TODO</OriginiumPollutionSTNL>
+	<OriginiumPollutionSTNL>オリジニウム汚染</OriginiumPollutionSTNL>
 	<!-- EN: Originium Pollution Damage: {0} -->
-  <OriginiumPollutionDamageSTNL>TODO</OriginiumPollutionDamageSTNL>
+	<OriginiumPollutionDamageSTNL>オリジニウム汚染 ダメージ: {0}</OriginiumPollutionDamageSTNL>
 	<!-- EN: Damage Interval: {0} ticks (60 = 1 second) -->
-  <OriginiumPollutionDamageIntervalSTNL>TODO</OriginiumPollutionDamageIntervalSTNL>
+	<OriginiumPollutionDamageIntervalSTNL>ダメージ間隔: {0} ティック (60 = 1秒)</OriginiumPollutionDamageIntervalSTNL>
 	<!-- EN: Toxic Environment Resistance Required To Not Take Damage: {0}% -->
-  <OriginiumPollutionThresholdSTNL>TODO</OriginiumPollutionThresholdSTNL>
-	
+	<OriginiumPollutionThresholdSTNL>ダメージを受けないための耐毒環境抵抗: {0}%</OriginiumPollutionThresholdSTNL>
+
 	<!-- Healing Arts -->
 	<!-- EN: Arts: Restoration -->
-  <ArtsRestorationSTNL>TODO</ArtsRestorationSTNL>
+	<ArtsRestorationSTNL>技術: 回復</ArtsRestorationSTNL>
 	<!-- EN: Level: {0} -->
-  <RegenSeveritySTNL>TODO</RegenSeveritySTNL>
+	<RegenSeveritySTNL>レベル: {0}</RegenSeveritySTNL>
 	<!-- EN: Restoration Interval: {0} ticks (60 Ticks = 1 second) -->
-  <HealingArtsTickIntervalSTNL>TODO</HealingArtsTickIntervalSTNL>
+	<HealingArtsTickIntervalSTNL>回復間隔: {0} ティック (60 ティック = 1秒)</HealingArtsTickIntervalSTNL>
 	<!-- EN: Restoration Heal Per Level: {0} (Restoration Level = Caster's Medical Skill Rounded Down) -->
-  <HealingArtsScalingSTNL>TODO</HealingArtsScalingSTNL>
+	<HealingArtsScalingSTNL>レベルあたり回復: {0} (回復レベル = キャスターの医療スキルを切り捨て)</HealingArtsScalingSTNL>
 	<!-- EN: Restoration Medical XP Per Cast: {0} XP -->
-  <HealingArtsXPpercastSTNL>TODO</HealingArtsXPpercastSTNL>
-	
+	<HealingArtsXPpercastSTNL>回復キャストごとの医療経験値: {0} XP</HealingArtsXPpercastSTNL>
+
 	<!-- Ward Arts -->
 	<!-- EN: Arts: Ward -->
-  <ArtsWardSTNL>TODO</ArtsWardSTNL>
+	<ArtsWardSTNL>技術: 防護</ArtsWardSTNL>
 	<!-- EN: Psychic Sensitivity Required Per Deflection (Arts: Ward): {0} -->
-  <ConversionRateSeverityWardSTNL>TODO</ConversionRateSeverityWardSTNL>
+	<ConversionRateSeverityWardSTNL>反射ごとに必要なサイキック感受性: {0}</ConversionRateSeverityWardSTNL>
 	<!-- EN: Deflection: {0} -->
-  <DeflectionsLeftSTNL>TODO</DeflectionsLeftSTNL>
-	
+	<DeflectionsLeftSTNL>反射: {0}</DeflectionsLeftSTNL>
+
 	<!-- Surge Arts And Effect -->
 	<!-- EN: Arts: Surge -->
-  <ArtsSurgeSTNL>TODO</ArtsSurgeSTNL>
+	<ArtsSurgeSTNL>技術: サージ</ArtsSurgeSTNL>
 	<!-- EN: Surge Level {0} -->
-  <SurgeSeveritySTNL>TODO</SurgeSeveritySTNL>
+	<SurgeSeveritySTNL>サージレベル {0}</SurgeSeveritySTNL>
 	<!-- EN: {0} Psychic Sensitivity = 1 Surge Level -->
-  <SurgeArtsScalingSensiSTNL>TODO</SurgeArtsScalingSensiSTNL>
+	<SurgeArtsScalingSensiSTNL>{0} サイキック感受性 = サージレベル1</SurgeArtsScalingSensiSTNL>
 	<!-- EN: Ranged/Melee Attack Speed Boost: {0}% -->
-  <SurgeSeverityBoostSTNL>TODO</SurgeSeverityBoostSTNL>
+	<SurgeSeverityBoostSTNL>射撃/近接 攻撃速度ボーナス: {0}%</SurgeSeverityBoostSTNL>
 	<!-- EN: Ranged/Melee Attack Speed Boost Per Surge Level: {0} -->
-  <SurgeArtsBoostPerSeveritySTNL>TODO</SurgeArtsBoostPerSeveritySTNL>
+	<SurgeArtsBoostPerSeveritySTNL>サージレベルごとの攻撃速度ボーナス: {0}</SurgeArtsBoostPerSeveritySTNL>
 	<!-- EN: Originium Buildup Infection % Dealt To Enemies Per Surge Level: {0} -->
-  <OriginiumBuildupScalingSeveritySTNL>TODO</OriginiumBuildupScalingSeveritySTNL>
+	<OriginiumBuildupScalingSeveritySTNL>敵に与えるオリジニウム蓄積感染%（サージレベルごと）: {0}</OriginiumBuildupScalingSeveritySTNL>
 	<!-- EN: Damage Dealt On 100% Buildup: {0} -->
-  <BurstingSpikeDamageSTNL>TODO</BurstingSpikeDamageSTNL>
+	<BurstingSpikeDamageSTNL>蓄積100%時のダメージ: {0}</BurstingSpikeDamageSTNL>
 	<!-- EN: Armor Penetration: {0} -->
-  <BurstingSpikeArmorPenSTNL>TODO</BurstingSpikeArmorPenSTNL>
-	
+	<BurstingSpikeArmorPenSTNL>貫通力: {0}</BurstingSpikeArmorPenSTNL>
+
 	<!-- Assimilation -->
 	<!-- EN: Psychic Sensitivity Bonus: {0}% -->
-  <AssimilationSTNL>TODO</AssimilationSTNL>
+	<AssimilationSTNL>サイキック感受性ボーナス: {0}%</AssimilationSTNL>
 </LanguageData>

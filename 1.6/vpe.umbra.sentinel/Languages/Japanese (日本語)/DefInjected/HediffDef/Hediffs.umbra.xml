@@ -1,52 +1,52 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: Hunting Mark -->
-  <VPE_HuntingMarkSTNL.label>TODO</VPE_HuntingMarkSTNL.label>
+  <VPE_HuntingMarkSTNL.label>ハンティング・マーク</VPE_HuntingMarkSTNL.label>
   <!-- EN: A psychic mark is weakening this creature, stay in the light to dampen its effect. -->
-  <VPE_HuntingMarkSTNL.description>TODO</VPE_HuntingMarkSTNL.description>
+  <VPE_HuntingMarkSTNL.description>サイキックの刻印がこの個体を弱体化させています。効果を抑えるには光の下に留まってください。</VPE_HuntingMarkSTNL.description>
   <!-- EN: Weakened by light -->
-  <VPE_HuntingMarkSTNL.stages.Weakened_by_light.label>TODO</VPE_HuntingMarkSTNL.stages.Weakened_by_light.label>
-  
+  <VPE_HuntingMarkSTNL.stages.Weakened_by_light.label>光で弱体化</VPE_HuntingMarkSTNL.stages.Weakened_by_light.label>
+
   <!-- EN: Shadow Fang -->
-  <VPE_ShadowFangSTNL.label>TODO</VPE_ShadowFangSTNL.label>
+  <VPE_ShadowFangSTNL.label>シャドウ・ファング</VPE_ShadowFangSTNL.label>
   <!-- EN: This person is being bitten by fangs made of psychic energy, get to the nearest light source or die trying. -->
-  <VPE_ShadowFangSTNL.description>TODO</VPE_ShadowFangSTNL.description>
-  
+  <VPE_ShadowFangSTNL.description>この個体はサイキックエネルギーでできた牙に噛まれています。最寄りの光源へ向かってください。さもなければ命にかかわる恐れがあります。</VPE_ShadowFangSTNL.description>
+
   <!-- EN: Curse -->
-  <VPE_UmbralCurseSTNL.label>TODO</VPE_UmbralCurseSTNL.label>
+  <VPE_UmbralCurseSTNL.label>カース</VPE_UmbralCurseSTNL.label>
   <!-- EN: This creature's essence is being sapped by a looming psychic force, their stats are severely lowered. -->
-  <VPE_UmbralCurseSTNL.description>TODO</VPE_UmbralCurseSTNL.description>
+  <VPE_UmbralCurseSTNL.description>この個体の本質は迫り来るサイキックの力によって吸い取られており、ステータスが著しく低下しています。</VPE_UmbralCurseSTNL.description>
   <!-- EN: Weak -->
-  <VPE_UmbralCurseSTNL.stages.Weak.label>TODO</VPE_UmbralCurseSTNL.stages.Weak.label>
+  <VPE_UmbralCurseSTNL.stages.Weak.label>弱い</VPE_UmbralCurseSTNL.stages.Weak.label>
   <!-- EN: Moderate -->
-  <VPE_UmbralCurseSTNL.stages.Moderate.label>TODO</VPE_UmbralCurseSTNL.stages.Moderate.label>
+  <VPE_UmbralCurseSTNL.stages.Moderate.label>中程度</VPE_UmbralCurseSTNL.stages.Moderate.label>
   <!-- EN: Drained -->
-  <VPE_UmbralCurseSTNL.stages.Drained.label>TODO</VPE_UmbralCurseSTNL.stages.Drained.label>
-  
+  <VPE_UmbralCurseSTNL.stages.Drained.label>消耗</VPE_UmbralCurseSTNL.stages.Drained.label>
+
   <!-- EN: Umbral Crest -->
-  <VPE_UmbralFormDaySTNL.label>TODO</VPE_UmbralFormDaySTNL.label>
+  <VPE_UmbralFormDaySTNL.label>アンブラル・クレスト</VPE_UmbralFormDaySTNL.label>
   <!-- EN: A shadow taking the form of an Umbra path user, this entity is capable of learning its own set of psychic abilities and will do the same work as its summoner.\n\nThis entity will steadily consume psyfocus to maintain its form, disappearing once it reaches 0%.\n\nStaying in an area with a light level of more than 30% will cause this entity's psyfocus to drop much faster than normal. -->
-  <VPE_UmbralFormDaySTNL.description>TODO</VPE_UmbralFormDaySTNL.description>
-  
+  <VPE_UmbralFormDaySTNL.description>術者の形を取った影の実体です。この実体は独自のサイキック能力を学習し、術者と同様の働きをします。\n\n形を維持するためにサイフォーカスを徐々に消費し、0%に達すると消滅します。\n\n照度が30%を超える場所にいると、サイフォーカスは通常よりもはるかに速く減少します。</VPE_UmbralFormDaySTNL.description>
+
   <!-- EN: Umbral Wings -->
-  <VPE_UmbralFormNightSTNL.label>TODO</VPE_UmbralFormNightSTNL.label>
+  <VPE_UmbralFormNightSTNL.label>アンブラル・ウィングス</VPE_UmbralFormNightSTNL.label>
   <!-- EN: A shadow taking the form of an Umbra path user, this entity is capable of learning its own set of psychic abilities and will do the same work as its summoner.\n\nThis entity will steadily consume psyfocus to maintain its form, disappearing once it reaches 0%.\n\nStaying in an area with a light level of more than 30% will cause this entity's psyfocus to drop much faster than normal. -->
-  <VPE_UmbralFormNightSTNL.description>TODO</VPE_UmbralFormNightSTNL.description>
-  
+  <VPE_UmbralFormNightSTNL.description>術者の形を取った影の実体です。この実体は独自のサイキック能力を学習し、術者と同様の働きをします。\n\n形を維持するためにサイフォーカスを徐々に消費し、0%に達すると消滅します。\n\n照度が30%を超える場所にいると、サイフォーカスは通常よりもはるかに速く減少します。</VPE_UmbralFormNightSTNL.description>
+
   <!-- EN: Umbral Shroud -->
-  <VPE_UmbralShroudSTNL.label>TODO</VPE_UmbralShroudSTNL.label>
+  <VPE_UmbralShroudSTNL.label>アンブラル・シュラウド</VPE_UmbralShroudSTNL.label>
   <!-- EN: This person is surrounded by a light refracting field of darkness, effectively rendering them invisible. -->
-  <VPE_UmbralShroudSTNL.description>TODO</VPE_UmbralShroudSTNL.description>
-  
+  <VPE_UmbralShroudSTNL.description>光を屈折させる暗闇の場で包まれており、事実上不可視になります。</VPE_UmbralShroudSTNL.description>
+
   <!-- EN: darkness exposure -->
-  <VPE_UmbraPsychicDarknessExposureSTNL.label>TODO</VPE_UmbraPsychicDarknessExposureSTNL.label>
+  <VPE_UmbraPsychicDarknessExposureSTNL.label>暗闇曝露</VPE_UmbraPsychicDarknessExposureSTNL.label>
   <!-- EN: This person is in the dark, shadowy creatures will attack them until they return to the light. -->
-  <VPE_UmbraPsychicDarknessExposureSTNL.description>TODO</VPE_UmbraPsychicDarknessExposureSTNL.description>
-  
+  <VPE_UmbraPsychicDarknessExposureSTNL.description>この個体は暗闇に晒されています。光に戻るまで影の生物が攻撃を続けます。</VPE_UmbraPsychicDarknessExposureSTNL.description>
+
   <!-- EN: Umbra -->
-  <VPE_UmbraSTNL.label>TODO</VPE_UmbraSTNL.label>
+  <VPE_UmbraSTNL.label>アンブラ</VPE_UmbraSTNL.label>
   <!-- EN: A shadow taking the form of an Umbra path user, this entity is capable of learning its own set of psychic abilities and will do the same work as its summoner.\n\nThis entity will steadily consume psyfocus to maintain its form, disappearing once it reaches 0%.\n\nStaying in an area with a light level of more than 30% will cause this entity's psyfocus to drop much faster than normal. -->
-  <VPE_UmbraSTNL.description>TODO</VPE_UmbraSTNL.description>
-  
+  <VPE_UmbraSTNL.description>術者の形を取った影の実体です。この実体は独自のサイキック能力を学習し、術者と同様の働きをします。\n\n形を維持するためにサイフォーカスを徐々に消費し、0%に達すると消滅します。\n\n照度が30%を超える場所にいると、サイフォーカスは通常よりもはるかに速く減少します。</VPE_UmbraSTNL.description>
+
 </LanguageData>

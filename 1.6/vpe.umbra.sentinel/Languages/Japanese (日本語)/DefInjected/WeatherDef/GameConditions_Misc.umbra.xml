@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: Localized darkness -->
-  <UmbraDarknessSTNL.label>TODO</UmbraDarknessSTNL.label>
+  <UmbraDarknessSTNL.label>局所的な暗闇</UmbraDarknessSTNL.label>
   <!-- EN: Light is being blocked by a psychic phenomenon. -->
-  <UmbraDarknessSTNL.description>TODO</UmbraDarknessSTNL.description>
-  
+  <UmbraDarknessSTNL.description>光がサイキック現象によって遮られています。</UmbraDarknessSTNL.description>
+
 </LanguageData>
