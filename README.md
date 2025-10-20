@@ -14,8 +14,9 @@ VPsyEの拡張Mod群である [Too many VPE Paths](https://steamcommunity.com/sh
 
 * VPE - Ragnarok Online
   * [VPE - Ragnarok Online(ja-JP)](https://github.com/piet-rian/ja-JP.VPE.Ragnarok) で単独で翻訳済みであるため
-* スマホゲーム アークナイツ を元ネタとした者
-  * 元ネタありの場合はフレーバーを拾った翻訳をするべきと考えているが、自身と機械翻訳ではそれが難しいため
+* 明確な元ネタがあるが、その元ネタを自身が把握できていないもの
+  * 要するにアークナイツ系
+  * 「元ネタ要素をちゃんと拾った翻訳をするべきだ」と考えているが、自身と機械翻訳ではそれが難しいため
 
 ## 注意点
 
