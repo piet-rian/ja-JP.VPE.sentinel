@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: Gravcaster -->
-  <VPE_GravmancerSTNL.label>TODO</VPE_GravmancerSTNL.label>
+  <VPE_GravmancerSTNL.label>Gravcaster</VPE_GravmancerSTNL.label>
   <!-- EN: Use the power of gravity to affect the world in many ways. -->
   <VPE_GravmancerSTNL.description>TODO</VPE_GravmancerSTNL.description>
   <!-- EN: Use the power of gravity to affect the world in many ways. -->
   <VPE_GravmancerSTNL.tooltip>TODO</VPE_GravmancerSTNL.tooltip>
-  
+
 </LanguageData>
