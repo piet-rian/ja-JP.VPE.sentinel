@@ -8,10 +8,12 @@ VPsyEの拡張Mod群である [Too many VPE Paths](https://steamcommunity.com/sh
 
 * VPE - Luminis
 * VPE - Umbra
-* VPE - Gravcaster
+* VPE - Gravcaster (*1)
 * VPE - Geomancer
 * VPE - Hydromancer
 * VPE - Aeromancer
+
+(*1) 一部DLL側に直書きしてあるのか翻訳できない項目がある
 
 ## 翻訳対象外
 
