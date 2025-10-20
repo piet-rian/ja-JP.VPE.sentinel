@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Annihilation -->
+  <VPE_AnnihilationSTNL.label>TODO</VPE_AnnihilationSTNL.label>
+  <!-- EN: Forces a low orbit asteroid to come crashing down onto the target world tile, the process will destroy both the target and an asteroid on the world map. -->
+  <VPE_AnnihilationSTNL.description>TODO</VPE_AnnihilationSTNL.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_AnnihilationSTNL.jobReportString>TODO</VPE_AnnihilationSTNL.jobReportString>
+  <!-- EN: Annihilation -->
+  <VPE_AnnihilationSTNL.verbProperties.label>TODO</VPE_AnnihilationSTNL.verbProperties.label>
+  
+  <!-- EN: Crush -->
+  <VPE_CrushSTNL.label>TODO</VPE_CrushSTNL.label>
+  <!-- EN: Create a small gravitational anomaly within the target, dealing 10 to 15 blunt damage. Using Crush on an enemy affected by "Singularity" will turn Crush into Collapse, creating an explosion on the target. -->
+  <VPE_CrushSTNL.description>TODO</VPE_CrushSTNL.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_CrushSTNL.jobReportString>TODO</VPE_CrushSTNL.jobReportString>
+  <!-- EN: Crush -->
+  <VPE_CrushSTNL.verbProperties.label>TODO</VPE_CrushSTNL.verbProperties.label>
+  
+  <!-- EN: Sky Drop -->
+  <VPE_FallingSkyALTSTNL.label>TODO</VPE_FallingSkyALTSTNL.label>
+  <!-- EN: Deviate a meteor full of resources from its original course, sending it to a location of your choosing instead. -->
+  <VPE_FallingSkyALTSTNL.description>TODO</VPE_FallingSkyALTSTNL.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_FallingSkyALTSTNL.jobReportString>TODO</VPE_FallingSkyALTSTNL.jobReportString>
+  <!-- EN: Sky Drop -->
+  <VPE_FallingSkyALTSTNL.verbProperties.label>TODO</VPE_FallingSkyALTSTNL.verbProperties.label>
+  
+  <!-- EN: Falling Sky -->
+  <VPE_FallingSkySTNL.label>TODO</VPE_FallingSkySTNL.label>
+  <!-- EN: Alter the gravity of nearby asteroids, causing them to crash on your target. -->
+  <VPE_FallingSkySTNL.description>TODO</VPE_FallingSkySTNL.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_FallingSkySTNL.jobReportString>TODO</VPE_FallingSkySTNL.jobReportString>
+  <!-- EN: Falling Sky -->
+  <VPE_FallingSkySTNL.verbProperties.label>TODO</VPE_FallingSkySTNL.verbProperties.label>
+  
+  <!-- EN: Gravimpact -->
+  <VPE_GravimpactSTNL.label>TODO</VPE_GravimpactSTNL.label>
+  <!-- EN: Rapidly compress and expand gravity on itself, causing a phenomenon similar to a detonation. Then hurl yourself to the target location. -->
+  <VPE_GravimpactSTNL.description>TODO</VPE_GravimpactSTNL.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_GravimpactSTNL.jobReportString>TODO</VPE_GravimpactSTNL.jobReportString>
+  <!-- EN: Gravimpact -->
+  <VPE_GravimpactSTNL.verbProperties.label>TODO</VPE_GravimpactSTNL.verbProperties.label>
+  
+  <!-- EN: Increase Gravity -->
+  <VPE_IncreasedGravitySTNL.label>TODO</VPE_IncreasedGravitySTNL.label>
+  <!-- EN: Induce an artificial gravity field on the target, rendering them unable to stand. -->
+  <VPE_IncreasedGravitySTNL.description>TODO</VPE_IncreasedGravitySTNL.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_IncreasedGravitySTNL.jobReportString>TODO</VPE_IncreasedGravitySTNL.jobReportString>
+  <!-- EN: Increase Gravity -->
+  <VPE_IncreasedGravitySTNL.verbProperties.label>TODO</VPE_IncreasedGravitySTNL.verbProperties.label>
+  
+  <!-- EN: Molten Pull -->
+  <VPE_MoltenPullSTNL.label>TODO</VPE_MoltenPullSTNL.label>
+  <!-- EN: Pull down a small asteroid from orbit, exerting immense pressure that melts it from within. The meteor will leave a temporary pool of lava on the ground upon impact. -->
+  <VPE_MoltenPullSTNL.description>TODO</VPE_MoltenPullSTNL.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_MoltenPullSTNL.jobReportString>TODO</VPE_MoltenPullSTNL.jobReportString>
+  <!-- EN: Molten Pull -->
+  <VPE_MoltenPullSTNL.verbProperties.label>TODO</VPE_MoltenPullSTNL.verbProperties.label>
+  
+  <!-- EN: Shipbreaker -->
+  <VPE_ShipBreakerSTNL.label>TODO</VPE_ShipBreakerSTNL.label>
+  <!-- EN: Manifest a strong gravitational field to destroy a distant ship and force the chunks to fall onto your target. -->
+  <VPE_ShipBreakerSTNL.description>TODO</VPE_ShipBreakerSTNL.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_ShipBreakerSTNL.jobReportString>TODO</VPE_ShipBreakerSTNL.jobReportString>
+  <!-- EN: Shipbreaker -->
+  <VPE_ShipBreakerSTNL.verbProperties.label>TODO</VPE_ShipBreakerSTNL.verbProperties.label>
+  
+  <!-- EN: Singularity -->
+  <VPE_SingularitySTNL.label>TODO</VPE_SingularitySTNL.label>
+  <!-- EN: Create a miniature gravitational anomaly at the target location, it will pull enemies in and inflict damage to them. Using Crush on pawns affected by this ability will turn it into Crush: Collapse, causing an explosion. -->
+  <VPE_SingularitySTNL.description>TODO</VPE_SingularitySTNL.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_SingularitySTNL.jobReportString>TODO</VPE_SingularitySTNL.jobReportString>
+  <!-- EN: Singularity -->
+  <VPE_SingularitySTNL.verbProperties.label>TODO</VPE_SingularitySTNL.verbProperties.label>
+  
+  <!-- EN: Telekinetic Satellites -->
+  <VPE_TelekineticSatelliteSTNL.label>TODO</VPE_TelekineticSatelliteSTNL.label>
+  <!-- EN: Lift nearby small stones and make them orbit around you, these stones will seek out enemies and hit them as fast as bullets. -->
+  <VPE_TelekineticSatelliteSTNL.description>TODO</VPE_TelekineticSatelliteSTNL.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_TelekineticSatelliteSTNL.jobReportString>TODO</VPE_TelekineticSatelliteSTNL.jobReportString>
+  <!-- EN: Telekinetic Satellites -->
+  <VPE_TelekineticSatelliteSTNL.verbProperties.label>TODO</VPE_TelekineticSatelliteSTNL.verbProperties.label>
+  
+</LanguageData>

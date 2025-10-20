@@ -26,7 +26,12 @@
 
   <loadAfter>
     <li>vpe.luminis.sentinel</li>
-    <!-- <li>additional.mod.package.id</li> -->
+    <li>vpe.luminis.sentinel</li>
+    <li>vpe.umbra.sentinel</li>
+    <li>vpe.gravcaster.sentinel</li>
+    <li>vpe.geomancer.sentinel</li>
+    <li>vpe.hydromancer.sentinel</li>
+    <li>vpe.aeromancer.sentinel</li> 
   </loadAfter>
 
 </ModMetaData>
