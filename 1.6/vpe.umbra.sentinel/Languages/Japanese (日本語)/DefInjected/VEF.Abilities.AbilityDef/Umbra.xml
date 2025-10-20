@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: Conceal Skip -->
   <VPE_ConcealSkipSTNL.label>TODO</VPE_ConcealSkipSTNL.label>
   <!-- EN: Turn yourself into a shadow and emerge at the target location, nearby allies will become shrouded in darkness as the caster reforms, rendering them invisible. -->
@@ -9,16 +9,16 @@
   <VPE_ConcealSkipSTNL.jobReportString>TODO</VPE_ConcealSkipSTNL.jobReportString>
   <!-- EN: Conceal Skip -->
   <VPE_ConcealSkipSTNL.verbProperties.label>TODO</VPE_ConcealSkipSTNL.verbProperties.label>
-  
+
   <!-- EN: Hunting Mark -->
-  <VPE_HuntingMarkSTNL.label>TODO</VPE_HuntingMarkSTNL.label>
+  <VPE_HuntingMarkSTNL.label>ハンティング・マーク</VPE_HuntingMarkSTNL.label>
   <!-- EN: Inflict a psychic mark upon enemies to weaken them, greatly increasing incoming damage. The effectiveness of the mark depends on the light level at their position.\n\n(25% incoming damage bonus if standing in an area with more than 30% light, 100% incoming damage bonus if standing in an area with a light level of 30% or less.)\n\n(Darklight is considered as darkness for this ability.) -->
   <VPE_HuntingMarkSTNL.description>TODO</VPE_HuntingMarkSTNL.description>
   <!-- EN: Using ability: {0} -->
   <VPE_HuntingMarkSTNL.jobReportString>TODO</VPE_HuntingMarkSTNL.jobReportString>
   <!-- EN: Hunting Mark -->
   <VPE_HuntingMarkSTNL.verbProperties.label>TODO</VPE_HuntingMarkSTNL.verbProperties.label>
-  
+
   <!-- EN: Mass Curse -->
   <VPE_MassUmbralCurseSTNL.label>TODO</VPE_MassUmbralCurseSTNL.label>
   <!-- EN: Sap the energy from multiple targets by cursing them with a looming psychic phenomenon that feeds on their life force.\n\nSubsequent casts will further decrease the maximum capacity for the target's stats up to a maximum of 30%.\n\nCasting this ability on targets that are standing in a location with a light level of 30% or less will instantly afflict them with the full effect of Curse.\n\n(Darklight is considered as darkness for this ability.) -->
@@ -27,68 +27,68 @@
   <VPE_MassUmbralCurseSTNL.jobReportString>TODO</VPE_MassUmbralCurseSTNL.jobReportString>
   <!-- EN: Mass Curse -->
   <VPE_MassUmbralCurseSTNL.verbProperties.label>TODO</VPE_MassUmbralCurseSTNL.verbProperties.label>
-  
+
   <!-- EN: Umbra -->
-  <VPE_ShadowCloneSTNL.label>TODO</VPE_ShadowCloneSTNL.label>
+  <VPE_ShadowCloneSTNL.label>アンブラ</VPE_ShadowCloneSTNL.label>
   <!-- EN: Weave a creature of shadows that will take the caster's appearance, this creature will mirror the caster's psychic prowess and possess the ability to develop its own set of psycasts.\n\nThis entity will steadily lose psyfocus over time, disappearing once it reaches 0%.\nThe entity will lose much more psyfocus over time if it is standing in an area with a light level over 30%.\n\n(Darklight is considered as darkness for this ability.) -->
   <VPE_ShadowCloneSTNL.description>TODO</VPE_ShadowCloneSTNL.description>
   <!-- EN: Using ability: {0} -->
   <VPE_ShadowCloneSTNL.jobReportString>TODO</VPE_ShadowCloneSTNL.jobReportString>
   <!-- EN: Umbra -->
   <VPE_ShadowCloneSTNL.verbProperties.label>TODO</VPE_ShadowCloneSTNL.verbProperties.label>
-  
+
   <!-- EN: Shadow Fang -->
-  <VPE_ShadowFangSTNL.label>TODO</VPE_ShadowFangSTNL.label>
+  <VPE_ShadowFangSTNL.label>シャドウ・ファング</VPE_ShadowFangSTNL.label>
   <!-- EN: Bite down on the target with fangs made of psychic energy, these fangs will continuously bite on them for as long as they remain in an area with less than 30% light.\n\n(Damage scales with the psychic sensitivity of the target, 100% = 10 damage. 0% = 1 Damage.)\n\nThe initial bite scales with the caster's sensitivity (100% = 15 Damage)\n\n(Darklight is considered as darkness for this ability.) -->
   <VPE_ShadowFangSTNL.description>TODO</VPE_ShadowFangSTNL.description>
   <!-- EN: Using ability: {0} -->
   <VPE_ShadowFangSTNL.jobReportString>TODO</VPE_ShadowFangSTNL.jobReportString>
   <!-- EN: Shadow Fang -->
   <VPE_ShadowFangSTNL.verbProperties.label>TODO</VPE_ShadowFangSTNL.verbProperties.label>
-  
+
   <!-- EN: Shadow Hunt -->
-  <VPE_ShadowHuntSTNL.label>TODO</VPE_ShadowHuntSTNL.label>
+  <VPE_ShadowHuntSTNL.label>シャドウ・ハント</VPE_ShadowHuntSTNL.label>
   <!-- EN: Assault targets in the radius with fangs made of psychic energy, these fangs will continuously bite on them for as long as they remain in an area with less than 30% light.\n\n(Damage scales with the psychic sensitivity of the target, 100% = 10 damage. 0% = 1 Damage.)\n\nThe initial bite scales with the caster's sensitivity (100% = 10 Damage)\n\n(Darklight is considered as darkness for this ability.) -->
   <VPE_ShadowHuntSTNL.description>TODO</VPE_ShadowHuntSTNL.description>
   <!-- EN: Using ability: {0} -->
   <VPE_ShadowHuntSTNL.jobReportString>TODO</VPE_ShadowHuntSTNL.jobReportString>
   <!-- EN: Shadow Hunt -->
   <VPE_ShadowHuntSTNL.verbProperties.label>TODO</VPE_ShadowHuntSTNL.verbProperties.label>
-  
+
   <!-- EN: Shadow Claw -->
-  <VPE_ShadowStrikeSTNL.label>TODO</VPE_ShadowStrikeSTNL.label>
+  <VPE_ShadowStrikeSTNL.label>シャドウ・クロー</VPE_ShadowStrikeSTNL.label>
   <!-- EN: Strike the target with a claw made of psychic energy, targets in the dark will receive an additional hit.\n\n(100% Psychic Sensitivity = 10 Damage || Targets must be in a cell with less than/equal to 30% light to take a second hit.)\n\n(Darklight is considered as darkness for this ability.) -->
   <VPE_ShadowStrikeSTNL.description>TODO</VPE_ShadowStrikeSTNL.description>
   <!-- EN: Using ability: {0} -->
   <VPE_ShadowStrikeSTNL.jobReportString>TODO</VPE_ShadowStrikeSTNL.jobReportString>
   <!-- EN: Shadow Claw -->
   <VPE_ShadowStrikeSTNL.verbProperties.label>TODO</VPE_ShadowStrikeSTNL.verbProperties.label>
-  
+
   <!-- EN: Curse -->
-  <VPE_UmbralCurseSTNL.label>TODO</VPE_UmbralCurseSTNL.label>
+  <VPE_UmbralCurseSTNL.label>カース</VPE_UmbralCurseSTNL.label>
   <!-- EN: Sap the energy from the target by cursing them with a looming psychic phenomenon that feeds on their life force.\n\nSubsequent casts will further decrease the maximum capacity for the target's stats up to a maximum of 30%.\n\nCasting this ability on a target that is standing in a location with a light level of 30% or less will instantly afflict them with the full effect of Curse.\n\n(Darklight is considered as darkness for this ability.) -->
   <VPE_UmbralCurseSTNL.description>TODO</VPE_UmbralCurseSTNL.description>
   <!-- EN: Using ability: {0} -->
   <VPE_UmbralCurseSTNL.jobReportString>TODO</VPE_UmbralCurseSTNL.jobReportString>
   <!-- EN: Curse -->
   <VPE_UmbralCurseSTNL.verbProperties.label>TODO</VPE_UmbralCurseSTNL.verbProperties.label>
-  
+
   <!-- EN: Umbral Veil -->
-  <VPE_UmbralVeilSTNL.label>TODO</VPE_UmbralVeilSTNL.label>
+  <VPE_UmbralVeilSTNL.label>アンブラ・ヴェール</VPE_UmbralVeilSTNL.label>
   <!-- EN: Generate a psychic field around the local area, this field will prevent sunlight from passing through. This veil is capable of preventing the electromagnetic radiation emanated by solar flares from affecting the protected area. -->
   <VPE_UmbralVeilSTNL.description>TODO</VPE_UmbralVeilSTNL.description>
   <!-- EN: Using ability: {0} -->
   <VPE_UmbralVeilSTNL.jobReportString>TODO</VPE_UmbralVeilSTNL.jobReportString>
   <!-- EN: Umbral Veil -->
   <VPE_UmbralVeilSTNL.verbProperties.label>TODO</VPE_UmbralVeilSTNL.verbProperties.label>
-  
+
   <!-- EN: Umbral Swarm -->
-  <VPE_UmbraPsychicDarknessSTNL.label>TODO</VPE_UmbraPsychicDarknessSTNL.label>
+  <VPE_UmbraPsychicDarknessSTNL.label>アンブラル・スワーム</VPE_UmbraPsychicDarknessSTNL.label>
   <!-- EN: Shroud the area under a psychic field capable of blocking sunlight to awaken shadowy creatures that will assault those who are not of the caster's faction.\n\n(These entities will only be able to reach targets that are in a location with a light level of 30% or less.)\n\n(Darklight is considered as darkness for this ability.) -->
   <VPE_UmbraPsychicDarknessSTNL.description>TODO</VPE_UmbraPsychicDarknessSTNL.description>
   <!-- EN: Using ability: {0} -->
   <VPE_UmbraPsychicDarknessSTNL.jobReportString>TODO</VPE_UmbraPsychicDarknessSTNL.jobReportString>
   <!-- EN: Umbral Swarm -->
   <VPE_UmbraPsychicDarknessSTNL.verbProperties.label>TODO</VPE_UmbraPsychicDarknessSTNL.verbProperties.label>
-  
+
 </LanguageData>
