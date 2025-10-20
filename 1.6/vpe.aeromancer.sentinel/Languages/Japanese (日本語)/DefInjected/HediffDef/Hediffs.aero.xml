@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Headwind -->
+  <HeadwindSTNL.label>TODO</HeadwindSTNL.label>
+  <!-- EN: This creature is being slowed by the Delta Stream. -->
+  <HeadwindSTNL.description>TODO</HeadwindSTNL.description>
+  <!-- EN: This creature is being slowed by the Delta Stream. -->
+  <HeadwindSTNL.descriptionShort>TODO</HeadwindSTNL.descriptionShort>
+  
+  <!-- EN: Aero shield -->
+  <PersonalAtmoSTNL.label>TODO</PersonalAtmoSTNL.label>
+  <!-- EN: A psychic phenomenon is protecting this creature from the vacuum of space as well as airborne toxins. A miniature skip gate within them that is connected to the nearest habitable planet allows them to breathe.\n\nControlled airflow allows this creature to withstand harsher climates. -->
+  <PersonalAtmoSTNL.description>TODO</PersonalAtmoSTNL.description>
+  <!-- EN: A psychic phenomenon is protecting this creature from the vacuum of space as well as airborne toxins. A miniature skip gate within them that is connected to the nearest habitable planet allows them to breathe.\n\nControlled airflow allows this creature to withstand harsher climates. -->
+  <PersonalAtmoSTNL.descriptionShort>TODO</PersonalAtmoSTNL.descriptionShort>
+  
+  <!-- EN: Psychic Burnout -->
+  <PsychicBurnoutASTNL.label>TODO</PsychicBurnoutASTNL.label>
+  <!-- EN: This person has lost the ability to use psychic abilities for a while due to overworking themselves. -->
+  <PsychicBurnoutASTNL.description>TODO</PsychicBurnoutASTNL.description>
+  <!-- EN: This person has lost the ability to use psychic abilities for a while due to overworking themselves. -->
+  <PsychicBurnoutASTNL.descriptionShort>TODO</PsychicBurnoutASTNL.descriptionShort>
+  
+  <!-- EN: Tailwind -->
+  <TailwindSTNL.label>TODO</TailwindSTNL.label>
+  <!-- EN: This creature's movement speed is being enhanced by the Delta Stream. -->
+  <TailwindSTNL.description>TODO</TailwindSTNL.description>
+  <!-- EN: This creature's movement speed is being enhanced by the Delta Stream. -->
+  <TailwindSTNL.descriptionShort>TODO</TailwindSTNL.descriptionShort>
+  
+  <!-- EN: Hypoxia -->
+  <VPE_Cyclone_HypoxiaSTNL.label>TODO</VPE_Cyclone_HypoxiaSTNL.label>
+  <!-- EN: This creature has had oxygen forcefully taken from their lungs, repeated deprivation of oxygen will be fatal. -->
+  <VPE_Cyclone_HypoxiaSTNL.description>TODO</VPE_Cyclone_HypoxiaSTNL.description>
+  <!-- EN: initial -->
+  <VPE_Cyclone_HypoxiaSTNL.stages.initial-0.label>TODO</VPE_Cyclone_HypoxiaSTNL.stages.initial-0.label>
+  <!-- EN: initial -->
+  <VPE_Cyclone_HypoxiaSTNL.stages.initial-1.label>TODO</VPE_Cyclone_HypoxiaSTNL.stages.initial-1.label>
+  <!-- EN: mild -->
+  <VPE_Cyclone_HypoxiaSTNL.stages.mild.label>TODO</VPE_Cyclone_HypoxiaSTNL.stages.mild.label>
+  <!-- EN: moderate -->
+  <VPE_Cyclone_HypoxiaSTNL.stages.moderate.label>TODO</VPE_Cyclone_HypoxiaSTNL.stages.moderate.label>
+  <!-- EN: extreme -->
+  <VPE_Cyclone_HypoxiaSTNL.stages.extreme.label>TODO</VPE_Cyclone_HypoxiaSTNL.stages.extreme.label>
+  
+  <!-- EN: Updraft -->
+  <VPE_Cyclone_UpdraftSTNL.label>TODO</VPE_Cyclone_UpdraftSTNL.label>
+  <!-- EN: This person possess the ability to temporarily create a controlled burst of wind below their feet, allowing them to jump to target locations. -->
+  <VPE_Cyclone_UpdraftSTNL.description>TODO</VPE_Cyclone_UpdraftSTNL.description>
+  
+</LanguageData>

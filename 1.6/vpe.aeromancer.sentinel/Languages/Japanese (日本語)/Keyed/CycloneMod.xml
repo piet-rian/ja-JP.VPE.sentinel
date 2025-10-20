@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	<!-- =======Mod Settings======= -->
+
+    <!-- Push -->
+	<!-- EN: Push -->
+  <PushStreamSTNL>TODO</PushStreamSTNL>
+	<!-- EN: Push Distance: {0} Cells -->
+  <PushPawnStreamSTNL>TODO</PushPawnStreamSTNL>
+	
+	<!-- Pull -->
+	
+	<!-- EN: Pull -->
+  <PullStreamSTNL>TODO</PullStreamSTNL>
+	<!-- EN: Pull Distance: {0} Cells (Will Stop In Front Of Caster) -->
+  <PullPawnStreamSTNL>TODO</PullPawnStreamSTNL>
+
+</LanguageData>
