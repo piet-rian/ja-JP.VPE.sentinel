@@ -4,100 +4,100 @@
   <!-- EN: Pull -->
   <VPE_AirPullSTNL.label>プル</VPE_AirPullSTNL.label>
   <!-- EN: Create a strong gust of wind, pulling the target creature toward your general direction. -->
-  <VPE_AirPullSTNL.description>TODO</VPE_AirPullSTNL.description>
+  <VPE_AirPullSTNL.description>強い突風を発生させ、対象を自分の方向へ引き寄せます。</VPE_AirPullSTNL.description>
   <!-- EN: Using ability: {0} -->
-  <VPE_AirPullSTNL.jobReportString>TODO</VPE_AirPullSTNL.jobReportString>
+  <VPE_AirPullSTNL.jobReportString>能力を使用: {0}</VPE_AirPullSTNL.jobReportString>
   <!-- EN: Pull -->
-  <VPE_AirPullSTNL.verbProperties.label>TODO</VPE_AirPullSTNL.verbProperties.label>
+  <VPE_AirPullSTNL.verbProperties.label>引き寄せ</VPE_AirPullSTNL.verbProperties.label>
 
   <!-- EN: Push -->
   <VPE_AirPushSTNL.label>プッシュ</VPE_AirPushSTNL.label>
   <!-- EN: Create a strong gust of wind, pushing the target creature. -->
-  <VPE_AirPushSTNL.description>TODO</VPE_AirPushSTNL.description>
+  <VPE_AirPushSTNL.description>強い突風を発生させ、対象を吹き飛ばします。</VPE_AirPushSTNL.description>
   <!-- EN: Using ability: {0} -->
-  <VPE_AirPushSTNL.jobReportString>TODO</VPE_AirPushSTNL.jobReportString>
+  <VPE_AirPushSTNL.jobReportString>能力を使用: {0}</VPE_AirPushSTNL.jobReportString>
   <!-- EN: Push -->
-  <VPE_AirPushSTNL.verbProperties.label>TODO</VPE_AirPushSTNL.verbProperties.label>
+  <VPE_AirPushSTNL.verbProperties.label>プッシュ</VPE_AirPushSTNL.verbProperties.label>
 
   <!-- EN: Delta Stream -->
   <VPE_DeltaStreamSTNL.label>デルタ・ストリーム</VPE_DeltaStreamSTNL.label>
   <!-- EN: Alter the local weather to conjure strong winds that will override other active weather based conditions, additionally, allies will obtain the tailwind hediff, boosting their movement speed while enemies will obtain the headwind hediff, slowing them down. -->
-  <VPE_DeltaStreamSTNL.description>TODO</VPE_DeltaStreamSTNL.description>
+  <VPE_DeltaStreamSTNL.description>局所的な天候を変化させ、他の天候効果を上書きする強風を発生させます。さらに、味方には追い風で移動速度が上昇し、敵には向かい風で移動が遅くなります。</VPE_DeltaStreamSTNL.description>
   <!-- EN: Using ability: {0} -->
-  <VPE_DeltaStreamSTNL.jobReportString>TODO</VPE_DeltaStreamSTNL.jobReportString>
+  <VPE_DeltaStreamSTNL.jobReportString>能力を使用: {0}</VPE_DeltaStreamSTNL.jobReportString>
   <!-- EN: Delta Stream -->
-  <VPE_DeltaStreamSTNL.verbProperties.label>TODO</VPE_DeltaStreamSTNL.verbProperties.label>
+  <VPE_DeltaStreamSTNL.verbProperties.label>デルタ・ストリーム</VPE_DeltaStreamSTNL.verbProperties.label>
 
   <!-- EN: Disarming Gale -->
   <VPE_DisarmingGaleSTNL.label>ディスアーミング・ゲイル</VPE_DisarmingGaleSTNL.label>
   <!-- EN: Cause a brief miniature tornado to swirl around the target's hands, using it to strip them of their weapon, sending it hurling to your feet. -->
-  <VPE_DisarmingGaleSTNL.description>TODO</VPE_DisarmingGaleSTNL.description>
+  <VPE_DisarmingGaleSTNL.description>対象の手元に小さな竜巻を一時的に発生させ、武器を奪ってあなたの足元まで吹き飛ばします。</VPE_DisarmingGaleSTNL.description>
   <!-- EN: Using ability: {0} -->
-  <VPE_DisarmingGaleSTNL.jobReportString>TODO</VPE_DisarmingGaleSTNL.jobReportString>
+  <VPE_DisarmingGaleSTNL.jobReportString>能力を使用: {0}</VPE_DisarmingGaleSTNL.jobReportString>
   <!-- EN: Disarming Gale -->
-  <VPE_DisarmingGaleSTNL.verbProperties.label>TODO</VPE_DisarmingGaleSTNL.verbProperties.label>
+  <VPE_DisarmingGaleSTNL.verbProperties.label>ディスアーミング・ゲイル</VPE_DisarmingGaleSTNL.verbProperties.label>
 
   <!-- EN: Hypoxia -->
   <VPE_HypoxiaSTNL.label>ハイパクシア</VPE_HypoxiaSTNL.label>
   <!-- EN: Rip out the air from the target's lungs, causing them to show signs of hypoxia, repeated uses will worsen the effect until death once hypoxia reaches 100%. -->
-  <VPE_HypoxiaSTNL.description>TODO</VPE_HypoxiaSTNL.description>
+  <VPE_HypoxiaSTNL.description>対象の肺から空気を引き抜き、低酸素の症状を引き起こします。繰り返し使用すると効果は悪化し、低酸素が100%に達すると致命的になります。</VPE_HypoxiaSTNL.description>
   <!-- EN: Using ability: {0} -->
-  <VPE_HypoxiaSTNL.jobReportString>TODO</VPE_HypoxiaSTNL.jobReportString>
+  <VPE_HypoxiaSTNL.jobReportString>能力を使用: {0}</VPE_HypoxiaSTNL.jobReportString>
   <!-- EN: Hypoxia -->
-  <VPE_HypoxiaSTNL.verbProperties.label>TODO</VPE_HypoxiaSTNL.verbProperties.label>
+  <VPE_HypoxiaSTNL.verbProperties.label>ハイパクシア</VPE_HypoxiaSTNL.verbProperties.label>
 
   <!-- EN: Mass Pull -->
   <VPE_MassAirPullSTNL.label>マス・プル</VPE_MassAirPullSTNL.label>
   <!-- EN: Call forth a great gust of wind, pulling all targets closer. -->
-  <VPE_MassAirPullSTNL.description>TODO</VPE_MassAirPullSTNL.description>
+  <VPE_MassAirPullSTNL.description>強力な突風を呼び起こし、すべての対象を引き寄せます。</VPE_MassAirPullSTNL.description>
   <!-- EN: Using ability: {0} -->
-  <VPE_MassAirPullSTNL.jobReportString>TODO</VPE_MassAirPullSTNL.jobReportString>
+  <VPE_MassAirPullSTNL.jobReportString>能力を使用: {0}</VPE_MassAirPullSTNL.jobReportString>
   <!-- EN: Mass Pull -->
-  <VPE_MassAirPullSTNL.verbProperties.label>TODO</VPE_MassAirPullSTNL.verbProperties.label>
+  <VPE_MassAirPullSTNL.verbProperties.label>マス・プル</VPE_MassAirPullSTNL.verbProperties.label>
 
   <!-- EN: Mass Push -->
   <VPE_MassAirPushSTNL.label>マス・プッシュ</VPE_MassAirPushSTNL.label>
   <!-- EN: Call forth a great gust of wind, pushing away all targets. -->
-  <VPE_MassAirPushSTNL.description>TODO</VPE_MassAirPushSTNL.description>
+  <VPE_MassAirPushSTNL.description>強力な突風を呼び起こし、すべての対象を吹き飛ばします。</VPE_MassAirPushSTNL.description>
   <!-- EN: Using ability: {0} -->
-  <VPE_MassAirPushSTNL.jobReportString>TODO</VPE_MassAirPushSTNL.jobReportString>
+  <VPE_MassAirPushSTNL.jobReportString>能力を使用: {0}</VPE_MassAirPushSTNL.jobReportString>
   <!-- EN: Mass Push -->
-  <VPE_MassAirPushSTNL.verbProperties.label>TODO</VPE_MassAirPushSTNL.verbProperties.label>
+  <VPE_MassAirPushSTNL.verbProperties.label>マス・プッシュ</VPE_MassAirPushSTNL.verbProperties.label>
 
   <!-- EN: Aero Shield -->
   <VPE_PersonalAtmoSTNL.label>エアロシールド</VPE_PersonalAtmoSTNL.label>
   <!-- EN: Temporarily surround the targets with a miniature self-sustaining atmosphere that will allow them to breathe in the vacuum of space and render them immune to airborne toxins. Will provide 30°c of insulation. -->
-  <VPE_PersonalAtmoSTNL.description>TODO</VPE_PersonalAtmoSTNL.description>
+  <VPE_PersonalAtmoSTNL.description>対象を小規模な自律大気で一時的に包み、宇宙の真空下でも呼吸できるようにして空気中の毒素に対して免疫を付与します。さらに30℃の断熱効果を提供します。</VPE_PersonalAtmoSTNL.description>
   <!-- EN: Using ability: {0} -->
-  <VPE_PersonalAtmoSTNL.jobReportString>TODO</VPE_PersonalAtmoSTNL.jobReportString>
+  <VPE_PersonalAtmoSTNL.jobReportString>能力を使用: {0}</VPE_PersonalAtmoSTNL.jobReportString>
   <!-- EN: Aero Shield -->
-  <VPE_PersonalAtmoSTNL.verbProperties.label>TODO</VPE_PersonalAtmoSTNL.verbProperties.label>
+  <VPE_PersonalAtmoSTNL.verbProperties.label>エアロシールド</VPE_PersonalAtmoSTNL.verbProperties.label>
 
   <!-- EN: Devastating Winds -->
   <VPE_TornadoAOESTNL.label>暴風</VPE_TornadoAOESTNL.label>
   <!-- EN: Psychically form an unstable cataclysm upon the target area, the absurd strength of those tornados will annihilate the local area. (Seriously, don't use this on your home tile.)\n\nThe sheer effort it takes to cast this ability will prevent you from using psycasts for a day. -->
-  <VPE_TornadoAOESTNL.description>TODO</VPE_TornadoAOESTNL.description>
+  <VPE_TornadoAOESTNL.description>精神的に不安定な大災厄を目標地域に形成し、その途方もない強さの竜巻が局所領域を壊滅させます。（本当に、自陣タイルでは使用しないでください。）\n\nこの能力を発動する負担により、1日間サイキック能力を使用できなくなります。</VPE_TornadoAOESTNL.description>
   <!-- EN: Using ability: {0} -->
-  <VPE_TornadoAOESTNL.jobReportString>TODO</VPE_TornadoAOESTNL.jobReportString>
+  <VPE_TornadoAOESTNL.jobReportString>能力を使用: {0}</VPE_TornadoAOESTNL.jobReportString>
   <!-- EN: Devastating Winds -->
-  <VPE_TornadoAOESTNL.verbProperties.label>TODO</VPE_TornadoAOESTNL.verbProperties.label>
+  <VPE_TornadoAOESTNL.verbProperties.label>暴風</VPE_TornadoAOESTNL.verbProperties.label>
 
   <!-- EN: Tornado -->
   <VPE_TornadoSTNL.label>トルネード</VPE_TornadoSTNL.label>
   <!-- EN: Psychically form an unstable pillar of wind that will wreck havoc on the battlefield. -->
-  <VPE_TornadoSTNL.description>TODO</VPE_TornadoSTNL.description>
+  <VPE_TornadoSTNL.description>精神的に不安定な風の柱を形成し、戦場で大きな被害を与えます。</VPE_TornadoSTNL.description>
   <!-- EN: Using ability: {0} -->
-  <VPE_TornadoSTNL.jobReportString>TODO</VPE_TornadoSTNL.jobReportString>
+  <VPE_TornadoSTNL.jobReportString>能力を使用: {0}</VPE_TornadoSTNL.jobReportString>
   <!-- EN: Tornado -->
-  <VPE_TornadoSTNL.verbProperties.label>TODO</VPE_TornadoSTNL.verbProperties.label>
+  <VPE_TornadoSTNL.verbProperties.label>トルネード</VPE_TornadoSTNL.verbProperties.label>
 
   <!-- EN: Updraft -->
   <VPE_UpdraftSTNL.label>上昇気流</VPE_UpdraftSTNL.label>
   <!-- EN: Temporarily allow the target to jump by creating small wind explosions beneath their feet. -->
-  <VPE_UpdraftSTNL.description>TODO</VPE_UpdraftSTNL.description>
+  <VPE_UpdraftSTNL.description>足元に小さな風の爆発を発生させ、一時的に対象が跳躍できるようにします。</VPE_UpdraftSTNL.description>
   <!-- EN: Using ability: {0} -->
-  <VPE_UpdraftSTNL.jobReportString>TODO</VPE_UpdraftSTNL.jobReportString>
+  <VPE_UpdraftSTNL.jobReportString>能力を使用: {0}</VPE_UpdraftSTNL.jobReportString>
   <!-- EN: Updraft -->
-  <VPE_UpdraftSTNL.verbProperties.label>TODO</VPE_UpdraftSTNL.verbProperties.label>
+  <VPE_UpdraftSTNL.verbProperties.label>上昇気流</VPE_UpdraftSTNL.verbProperties.label>
 
 </LanguageData>

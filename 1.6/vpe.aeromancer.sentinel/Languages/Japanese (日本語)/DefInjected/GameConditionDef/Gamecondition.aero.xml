@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: Delta Stream -->
-  <DeltaStreamSTNL.label>TODO</DeltaStreamSTNL.label>
+  <DeltaStreamSTNL.label>デルタストリーム</DeltaStreamSTNL.label>
   <!-- EN: An Aeromancer is manifesting strong winds that will override weather based conditions. (Temperature/Psychic phenomonena remain unaffected.) -->
-  <DeltaStreamSTNL.description>TODO</DeltaStreamSTNL.description>
-  
+  <DeltaStreamSTNL.description>エアロマンサーが強い風を発生させ、天候に基づく効果を上書きします。（気温や精神的現象には影響しません。）</DeltaStreamSTNL.description>
+
 </LanguageData>

@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: Updraft -->
-  <UpdraftJumpSTNL.label>TODO</UpdraftJumpSTNL.label>
+  <UpdraftJumpSTNL.label>上昇気流</UpdraftJumpSTNL.label>
   <!-- EN: Jump to a distant location using small scale wind manipulation. -->
-  <UpdraftJumpSTNL.description>TODO</UpdraftJumpSTNL.description>
+  <UpdraftJumpSTNL.description>小規模な風の操作で遠距離の地点へ跳びます。</UpdraftJumpSTNL.description>
   <!-- EN: jump -->
-  <UpdraftJumpSTNL.verbProperties.label>TODO</UpdraftJumpSTNL.verbProperties.label>
-  
+  <UpdraftJumpSTNL.verbProperties.label>跳躍</UpdraftJumpSTNL.verbProperties.label>
+
 </LanguageData>

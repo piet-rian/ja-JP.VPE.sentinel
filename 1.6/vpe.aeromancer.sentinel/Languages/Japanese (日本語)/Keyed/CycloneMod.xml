@@ -2,17 +2,17 @@
 <LanguageData>
 	<!-- =======Mod Settings======= -->
 
-    <!-- Push -->
+	<!-- Push -->
 	<!-- EN: Push -->
-  <PushStreamSTNL>TODO</PushStreamSTNL>
+	<PushStreamSTNL>プッシュ</PushStreamSTNL>
 	<!-- EN: Push Distance: {0} Cells -->
-  <PushPawnStreamSTNL>TODO</PushPawnStreamSTNL>
-	
+	<PushPawnStreamSTNL>プッシュ距離: {0} セル</PushPawnStreamSTNL>
+
 	<!-- Pull -->
-	
+
 	<!-- EN: Pull -->
-  <PullStreamSTNL>TODO</PullStreamSTNL>
+	<PullStreamSTNL>プル</PullStreamSTNL>
 	<!-- EN: Pull Distance: {0} Cells (Will Stop In Front Of Caster) -->
-  <PullPawnStreamSTNL>TODO</PullPawnStreamSTNL>
+	<PullPawnStreamSTNL>プル距離: {0} セル（詠唱者の前で停止します）</PullPawnStreamSTNL>
 
 </LanguageData>

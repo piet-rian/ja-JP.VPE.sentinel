@@ -1,52 +1,52 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: Headwind -->
-  <HeadwindSTNL.label>TODO</HeadwindSTNL.label>
+  <HeadwindSTNL.label>向かい風</HeadwindSTNL.label>
   <!-- EN: This creature is being slowed by the Delta Stream. -->
-  <HeadwindSTNL.description>TODO</HeadwindSTNL.description>
+  <HeadwindSTNL.description>この生物はデルタストリームの影響で移動速度が低下しています。</HeadwindSTNL.description>
   <!-- EN: This creature is being slowed by the Delta Stream. -->
-  <HeadwindSTNL.descriptionShort>TODO</HeadwindSTNL.descriptionShort>
-  
+  <HeadwindSTNL.descriptionShort>デルタストリームにより移動速度が低下しています。</HeadwindSTNL.descriptionShort>
+
   <!-- EN: Aero shield -->
-  <PersonalAtmoSTNL.label>TODO</PersonalAtmoSTNL.label>
+  <PersonalAtmoSTNL.label>エアロシールド</PersonalAtmoSTNL.label>
   <!-- EN: A psychic phenomenon is protecting this creature from the vacuum of space as well as airborne toxins. A miniature skip gate within them that is connected to the nearest habitable planet allows them to breathe.\n\nControlled airflow allows this creature to withstand harsher climates. -->
-  <PersonalAtmoSTNL.description>TODO</PersonalAtmoSTNL.description>
+  <PersonalAtmoSTNL.description>サイキック現象がこの生物を宇宙空間の真空や空気中の毒素から保護しています。体内にある小型のスキップゲートが最寄りの居住可能な惑星と接続しており、呼吸を可能にします。\n\n制御された気流により、この生物はより過酷な気候に耐えられます。</PersonalAtmoSTNL.description>
   <!-- EN: A psychic phenomenon is protecting this creature from the vacuum of space as well as airborne toxins. A miniature skip gate within them that is connected to the nearest habitable planet allows them to breathe.\n\nControlled airflow allows this creature to withstand harsher climates. -->
-  <PersonalAtmoSTNL.descriptionShort>TODO</PersonalAtmoSTNL.descriptionShort>
-  
+  <PersonalAtmoSTNL.descriptionShort>サイキック現象が真空や有毒な大気からこの生物を保護し、体内の小型スキップゲートにより呼吸が可能です。</PersonalAtmoSTNL.descriptionShort>
+
   <!-- EN: Psychic Burnout -->
-  <PsychicBurnoutASTNL.label>TODO</PsychicBurnoutASTNL.label>
+  <PsychicBurnoutASTNL.label>精神的疲労</PsychicBurnoutASTNL.label>
   <!-- EN: This person has lost the ability to use psychic abilities for a while due to overworking themselves. -->
-  <PsychicBurnoutASTNL.description>TODO</PsychicBurnoutASTNL.description>
+  <PsychicBurnoutASTNL.description>この人物は過度の負荷によりしばらくの間サイキック能力を使用できません。</PsychicBurnoutASTNL.description>
   <!-- EN: This person has lost the ability to use psychic abilities for a while due to overworking themselves. -->
-  <PsychicBurnoutASTNL.descriptionShort>TODO</PsychicBurnoutASTNL.descriptionShort>
-  
+  <PsychicBurnoutASTNL.descriptionShort>過度の使用により一時的にサイキック能力を失っています。</PsychicBurnoutASTNL.descriptionShort>
+
   <!-- EN: Tailwind -->
-  <TailwindSTNL.label>TODO</TailwindSTNL.label>
+  <TailwindSTNL.label>追い風</TailwindSTNL.label>
   <!-- EN: This creature's movement speed is being enhanced by the Delta Stream. -->
-  <TailwindSTNL.description>TODO</TailwindSTNL.description>
+  <TailwindSTNL.description>この生物の移動速度はデルタストリームにより増加しています。</TailwindSTNL.description>
   <!-- EN: This creature's movement speed is being enhanced by the Delta Stream. -->
-  <TailwindSTNL.descriptionShort>TODO</TailwindSTNL.descriptionShort>
-  
+  <TailwindSTNL.descriptionShort>デルタストリームにより移動速度が上昇しています。</TailwindSTNL.descriptionShort>
+
   <!-- EN: Hypoxia -->
-  <VPE_Cyclone_HypoxiaSTNL.label>TODO</VPE_Cyclone_HypoxiaSTNL.label>
+  <VPE_Cyclone_HypoxiaSTNL.label>低酸素</VPE_Cyclone_HypoxiaSTNL.label>
   <!-- EN: This creature has had oxygen forcefully taken from their lungs, repeated deprivation of oxygen will be fatal. -->
-  <VPE_Cyclone_HypoxiaSTNL.description>TODO</VPE_Cyclone_HypoxiaSTNL.description>
+  <VPE_Cyclone_HypoxiaSTNL.description>この生物は肺から酸素を強制的に奪われています。繰り返し酸素を欠くと致命的になります。</VPE_Cyclone_HypoxiaSTNL.description>
   <!-- EN: initial -->
-  <VPE_Cyclone_HypoxiaSTNL.stages.initial-0.label>TODO</VPE_Cyclone_HypoxiaSTNL.stages.initial-0.label>
+  <VPE_Cyclone_HypoxiaSTNL.stages.initial-0.label>初期</VPE_Cyclone_HypoxiaSTNL.stages.initial-0.label>
   <!-- EN: initial -->
-  <VPE_Cyclone_HypoxiaSTNL.stages.initial-1.label>TODO</VPE_Cyclone_HypoxiaSTNL.stages.initial-1.label>
+  <VPE_Cyclone_HypoxiaSTNL.stages.initial-1.label>初期</VPE_Cyclone_HypoxiaSTNL.stages.initial-1.label>
   <!-- EN: mild -->
-  <VPE_Cyclone_HypoxiaSTNL.stages.mild.label>TODO</VPE_Cyclone_HypoxiaSTNL.stages.mild.label>
+  <VPE_Cyclone_HypoxiaSTNL.stages.mild.label>軽度</VPE_Cyclone_HypoxiaSTNL.stages.mild.label>
   <!-- EN: moderate -->
-  <VPE_Cyclone_HypoxiaSTNL.stages.moderate.label>TODO</VPE_Cyclone_HypoxiaSTNL.stages.moderate.label>
+  <VPE_Cyclone_HypoxiaSTNL.stages.moderate.label>中等度</VPE_Cyclone_HypoxiaSTNL.stages.moderate.label>
   <!-- EN: extreme -->
-  <VPE_Cyclone_HypoxiaSTNL.stages.extreme.label>TODO</VPE_Cyclone_HypoxiaSTNL.stages.extreme.label>
-  
+  <VPE_Cyclone_HypoxiaSTNL.stages.extreme.label>重度</VPE_Cyclone_HypoxiaSTNL.stages.extreme.label>
+
   <!-- EN: Updraft -->
-  <VPE_Cyclone_UpdraftSTNL.label>TODO</VPE_Cyclone_UpdraftSTNL.label>
+  <VPE_Cyclone_UpdraftSTNL.label>上昇気流</VPE_Cyclone_UpdraftSTNL.label>
   <!-- EN: This person possess the ability to temporarily create a controlled burst of wind below their feet, allowing them to jump to target locations. -->
-  <VPE_Cyclone_UpdraftSTNL.description>TODO</VPE_Cyclone_UpdraftSTNL.description>
-  
+  <VPE_Cyclone_UpdraftSTNL.description>この人物は足元に一時的な制御された突風を発生させ、目標地点へ跳躍することができます。</VPE_Cyclone_UpdraftSTNL.description>
+
 </LanguageData>
