@@ -8,20 +8,37 @@ VPsyEの拡張Mod群である [Too many VPE Paths](https://steamcommunity.com/sh
 
 * VPE - Luminis
 * VPE - Umbra
-* VPE - Gravcaster (*1)
+* VPE - Gravcaster
 * VPE - Geomancer
 * VPE - Hydromancer
 * VPE - Aeromancer
 
-(*1) 一部DLL側に直書きしてあるのか翻訳できない項目がある
+## 今後翻訳するかも系
+
+* VPE - Bugmancer
+* VPE - Biohazard | Biosoother
+* VPE - Mechanitor
+* VPE - Anima
+
+## 多分翻訳しない対象
+
+* VPE - Deadlife
+* VPE - Fleshshaper
+* VPE - Horaxian
+* VPE - Voidweaver
+* VPE - PhaseShift
+* VPE - Blader
 
 ## 翻訳対象外
 
 * VPE - Ragnarok Online
   * [VPE - Ragnarok Online(ja-JP)](https://github.com/piet-rian/ja-JP.VPE.Ragnarok) で単独で翻訳済みであるため
-* 明確な元ネタがあるが、その元ネタを自身が把握できていないもの
-  * 要するにアークナイツ系
-  * 「元ネタ要素をちゃんと拾った翻訳をするべきだ」と考えているが、自身と機械翻訳ではそれが難しいため
+* VPE - Awoken Gauranlen
+  * VPsyE以外のVEシリーズが前提であるため
+* VPE - Arknights
+* VPE - Oripathy
+* VPE - Originium
+  * 元ネタ(アークナイツ)の世界観・固有名詞を加味した翻訳ができないのが自明であるため
 
 ## 注意点
 
@@ -29,6 +46,7 @@ VPsyEの拡張Mod群である [Too many VPE Paths](https://steamcommunity.com/sh
   * 翻訳漏れ、翻訳揺れ、Core+DLCと異なる言い回し
 * 更新への対応もおそらく遅い
 * 自分が翻訳対象Modを使用しなくなった場合は更新が止まります
+  * 翻訳対象が多いため、バージョンアップと同時に更新が止まる可能性が非常に高いです
 
 自分用のModが結果として公開されている状態である、ということを改めてご留意ください
 
@@ -60,15 +78,15 @@ VPsyEの拡張Mod群である [Too many VPE Paths](https://steamcommunity.com/sh
 
 ## 訳注
 
-* パス名はアルファベットのままにしてあります
-* サイキャスト名は基本的にはそのままカタカナにしてあります
-  * `Solar Rift` → `ソーラーリフト`
-* ただし、日本語に訳したほうが意味が通りやすいと判断した場合はその限りではありません
-  * `Torrential Rain` → `集中豪雨`
-
 原文中の節と訳文の対応については [用語集](.github/instructions/glossary.instructions.md) 参照
 
 <!-- 以下、それ以外の特記事項があれば、個別に追記 -->
+
+* パス名はアルファベットのままにしてあります
+* サイキャスト名は基本的にはそのままカタカナにしてあります
+  * `Solar Rift` → `ソーラーリフト`
+* ただし、一部フィーリングで漢字やら日本語やらにしているものもあります
+  * `Enlighten` → `啓発`
 
 ## NOTICE
 

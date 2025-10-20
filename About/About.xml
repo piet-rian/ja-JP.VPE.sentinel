@@ -14,9 +14,7 @@
 
   <modVersion>1.0</modVersion>
 
-  <!--
-    <url>https://github.com/piet-rian/ja-JP.[replace-here]</url>
-  -->
+  <url>https://github.com/piet-rian/ja-JP.VPE.sentinel</url>
 
   <!-- see. https://rimworldwiki.com/wiki/Modding_Tutorials/About.xml -->
 
@@ -26,12 +24,11 @@
 
   <loadAfter>
     <li>vpe.luminis.sentinel</li>
-    <li>vpe.luminis.sentinel</li>
     <li>vpe.umbra.sentinel</li>
     <li>vpe.gravcaster.sentinel</li>
     <li>vpe.geomancer.sentinel</li>
     <li>vpe.hydromancer.sentinel</li>
-    <li>vpe.aeromancer.sentinel</li> 
+    <li>vpe.aeromancer.sentinel</li>
   </loadAfter>
 
 </ModMetaData>
